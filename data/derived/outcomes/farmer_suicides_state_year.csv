@@ -1,0 +1,783 @@
+unit_id,unit_name,year,farmers,ag_labourers,farming_sector,definition_break_2014,population,provisional_any,sources
+AN,Andaman and Nicobar Islands,2001,3.0,,3.0,False,356152.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AN,Andaman and Nicobar Islands,2002,7.0,,7.0,False,358594.9,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AN,Andaman and Nicobar Islands,2003,1.0,,1.0,False,361037.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AN,Andaman and Nicobar Islands,2004,3.0,,3.0,False,363480.7,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+AN,Andaman and Nicobar Islands,2005,8.0,,8.0,False,365923.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+AN,Andaman and Nicobar Islands,2006,6.0,,6.0,False,368366.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+AN,Andaman and Nicobar Islands,2007,16.0,,16.0,False,370809.4,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+AN,Andaman and Nicobar Islands,2008,23.0,,23.0,False,373252.3,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+AN,Andaman and Nicobar Islands,2009,19.0,,19.0,False,375695.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+AN,Andaman and Nicobar Islands,2010,8.0,,8.0,False,378138.1,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+AN,Andaman and Nicobar Islands,2011,,,,False,380581.0,False,farmers:non_reporting;farming_sector:non_reporting
+AN,Andaman and Nicobar Islands,2012,,,,False,383000.0,False,farmers:non_reporting;farming_sector:non_reporting
+AN,Andaman and Nicobar Islands,2013,5.0,,5.0,False,385000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+AN,Andaman and Nicobar Islands,2014,8.0,0.0,8.0,True,387000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+AN,Andaman and Nicobar Islands,2015,,0.0,,True,390000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+AN,Andaman and Nicobar Islands,2016,3.0,0.0,3.0,True,392000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+AN,Andaman and Nicobar Islands,2017,2.0,0.0,2.0,True,394000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+AN,Andaman and Nicobar Islands,2018,4.0,0.0,4.0,True,395000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+AN,Andaman and Nicobar Islands,2019,5.0,0.0,5.0,True,397000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+AN,Andaman and Nicobar Islands,2020,6.0,0.0,6.0,True,399000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+AN,Andaman and Nicobar Islands,2021,2.0,4.0,6.0,True,400000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+AN,Andaman and Nicobar Islands,2022,1.0,0.0,1.0,True,402000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+AN,Andaman and Nicobar Islands,2023,6.0,0.0,6.0,True,403000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+AP_TG,Andhra Pradesh and Telangana,2001,1509.0,,1509.0,False,76210007.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AP_TG,Andhra Pradesh and Telangana,2002,1896.0,,1896.0,False,77047084.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AP_TG,Andhra Pradesh and Telangana,2003,1800.0,,1800.0,False,77884161.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AP_TG,Andhra Pradesh and Telangana,2004,2666.0,,2666.0,False,78721238.0,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+AP_TG,Andhra Pradesh and Telangana,2005,2490.0,,2490.0,False,79558315.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+AP_TG,Andhra Pradesh and Telangana,2006,2607.0,,2607.0,False,80395392.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+AP_TG,Andhra Pradesh and Telangana,2007,1797.0,,1797.0,False,81232469.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+AP_TG,Andhra Pradesh and Telangana,2008,2105.0,,2105.0,False,82069546.0,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+AP_TG,Andhra Pradesh and Telangana,2009,2414.0,,2414.0,False,82906623.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+AP_TG,Andhra Pradesh and Telangana,2010,2525.0,,2525.0,False,83743700.0,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+AP_TG,Andhra Pradesh and Telangana,2011,2206.0,,2206.0,False,84580777.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+AP_TG,Andhra Pradesh and Telangana,2012,2572.0,,2572.0,False,85231000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+AP_TG,Andhra Pradesh and Telangana,2013,2014.0,,2014.0,False,85882000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+AP_TG,Andhra Pradesh and Telangana,2014,1058.0,921.0,1979.0,True,86532000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+AP_TG,Andhra Pradesh and Telangana,2015,1874.0,442.0,2316.0,True,87182000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+AP_TG,Andhra Pradesh and Telangana,2016,871.0,578.0,1449.0,True,87833000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+AP_TG,Andhra Pradesh and Telangana,2017,1221.0,446.0,1667.0,True,88369000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+AP_TG,Andhra Pradesh and Telangana,2018,1265.0,307.0,1572.0,True,88905000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+AP_TG,Andhra Pradesh and Telangana,2019,1119.0,409.0,1528.0,True,89441000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+AP_TG,Andhra Pradesh and Telangana,2020,1030.0,330.0,1360.0,True,89977000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+AP_TG,Andhra Pradesh and Telangana,2021,833.0,591.0,1424.0,True,90512000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+AP_TG,Andhra Pradesh and Telangana,2022,547.0,548.0,1095.0,True,90879000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+AP_TG,Andhra Pradesh and Telangana,2023,257.0,724.0,981.0,True,91246000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+AR,Arunachal Pradesh,2001,17.0,,17.0,False,1097968.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AR,Arunachal Pradesh,2002,27.0,,27.0,False,1126543.9,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AR,Arunachal Pradesh,2003,11.0,,11.0,False,1155119.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AR,Arunachal Pradesh,2004,20.0,,20.0,False,1183695.7,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+AR,Arunachal Pradesh,2005,25.0,,25.0,False,1212271.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+AR,Arunachal Pradesh,2006,4.0,,4.0,False,1240847.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+AR,Arunachal Pradesh,2007,15.0,,15.0,False,1269423.4,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+AR,Arunachal Pradesh,2008,12.0,,12.0,False,1297999.3,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+AR,Arunachal Pradesh,2009,12.0,,12.0,False,1326575.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+AR,Arunachal Pradesh,2010,18.0,,18.0,False,1355151.1,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+AR,Arunachal Pradesh,2011,13.0,,13.0,False,1383727.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+AR,Arunachal Pradesh,2012,11.0,,11.0,False,1399000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+AR,Arunachal Pradesh,2013,37.0,,37.0,False,1414000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+AR,Arunachal Pradesh,2014,,3.0,,True,1429000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+AR,Arunachal Pradesh,2015,7.0,3.0,10.0,True,1444000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+AR,Arunachal Pradesh,2016,6.0,0.0,6.0,True,1459000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+AR,Arunachal Pradesh,2017,,2.0,,True,1474000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+AR,Arunachal Pradesh,2018,,4.0,,True,1489000.0,False,farmers:non_reporting;ag_labourers:ncrb_2018;farming_sector:non_reporting
+AR,Arunachal Pradesh,2019,,1.0,,True,1504000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+AR,Arunachal Pradesh,2020,1.0,6.0,7.0,True,1519000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+AR,Arunachal Pradesh,2021,0.0,0.0,0.0,True,1533000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+AR,Arunachal Pradesh,2022,2.0,5.0,7.0,True,1548000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+AR,Arunachal Pradesh,2023,0.0,0.0,,True,1562000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:non_reporting
+AS,Assam,2001,167.0,,167.0,False,26655528.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AS,Assam,2002,271.0,,271.0,False,27110532.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AS,Assam,2003,187.0,,187.0,False,27565537.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+AS,Assam,2004,331.0,,331.0,False,28020542.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+AS,Assam,2005,299.0,,299.0,False,28475547.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+AS,Assam,2006,322.0,,322.0,False,28930552.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+AS,Assam,2007,278.0,,278.0,False,29385556.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+AS,Assam,2008,197.0,,197.0,False,29840561.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+AS,Assam,2009,341.0,,341.0,False,30295566.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+AS,Assam,2010,369.0,,369.0,False,30750571.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+AS,Assam,2011,312.0,,312.0,False,31205576.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+AS,Assam,2012,344.0,,344.0,False,31598000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+AS,Assam,2013,305.0,,305.0,False,31991000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+AS,Assam,2014,21.0,38.0,59.0,True,32383000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+AS,Assam,2015,84.0,54.0,138.0,True,32776000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+AS,Assam,2016,6.0,64.0,70.0,True,33168000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+AS,Assam,2017,3.0,46.0,49.0,True,33543000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+AS,Assam,2018,5.0,50.0,55.0,True,33918000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+AS,Assam,2019,26.0,81.0,107.0,True,34293000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+AS,Assam,2020,12.0,105.0,117.0,True,34668000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+AS,Assam,2021,153.0,74.0,227.0,True,35043000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+AS,Assam,2022,34.0,89.0,123.0,True,35378000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+AS,Assam,2023,39.0,77.0,116.0,True,35713000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+BR,Bihar,2001,61.0,,61.0,False,82998509.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+BR,Bihar,2002,80.0,,80.0,False,85108603.3,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+BR,Bihar,2003,46.0,,46.0,False,87218697.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+BR,Bihar,2004,23.0,,23.0,False,89328791.9,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+BR,Bihar,2005,39.0,,39.0,False,91438886.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+BR,Bihar,2006,46.0,,46.0,False,93548980.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+BR,Bihar,2007,86.0,,86.0,False,95659074.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+BR,Bihar,2008,67.0,,67.0,False,97769169.1,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+BR,Bihar,2009,112.0,,112.0,False,99879263.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+BR,Bihar,2010,95.0,,95.0,False,101989357.7,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+BR,Bihar,2011,83.0,,83.0,False,104099452.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+BR,Bihar,2012,68.0,,68.0,False,106115000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+BR,Bihar,2013,127.0,,127.0,False,108130000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+BR,Bihar,2014,,10.0,,True,110145000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+BR,Bihar,2015,,7.0,,True,112161000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+BR,Bihar,2016,,,,True,114176000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2017,,1.0,,True,115957000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+BR,Bihar,2018,,,,True,117739000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2019,,,,True,119520000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2020,,,,True,121302000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2021,,,,True,123083000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2022,,,,True,124919000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+BR,Bihar,2023,,,,True,126756000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+CH,Chandigarh,2001,0.0,,0.0,False,900635.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CH,Chandigarh,2002,0.0,,0.0,False,916116.5,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CH,Chandigarh,2003,2.0,,2.0,False,931598.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CH,Chandigarh,2004,0.0,,0.0,False,947079.5,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+CH,Chandigarh,2005,0.0,,0.0,False,962561.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+CH,Chandigarh,2006,1.0,,1.0,False,978042.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+CH,Chandigarh,2007,0.0,,0.0,False,993524.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+CH,Chandigarh,2008,0.0,,0.0,False,1009005.5,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+CH,Chandigarh,2009,0.0,,0.0,False,1024487.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+CH,Chandigarh,2010,0.0,,0.0,False,1039968.5,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+CH,Chandigarh,2011,0.0,,0.0,False,1055450.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+CH,Chandigarh,2012,0.0,,0.0,False,1072000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+CH,Chandigarh,2013,0.0,,0.0,False,1088000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+CH,Chandigarh,2014,0.0,0.0,0.0,True,1104000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+CH,Chandigarh,2015,0.0,0.0,0.0,True,1120000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+CH,Chandigarh,2016,0.0,0.0,0.0,True,1136000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+CH,Chandigarh,2017,0.0,0.0,0.0,True,1151000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+CH,Chandigarh,2018,0.0,0.0,0.0,True,1165000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+CH,Chandigarh,2019,0.0,0.0,0.0,True,1179000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+CH,Chandigarh,2020,0.0,0.0,0.0,True,1193000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+CH,Chandigarh,2021,0.0,0.0,0.0,True,1208000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+CH,Chandigarh,2022,0.0,0.0,0.0,True,1219000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+CH,Chandigarh,2023,0.0,0.0,0.0,True,1231000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+CG,Chhattisgarh,2001,1452.0,,1452.0,False,20833803.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CG,Chhattisgarh,2002,1238.0,,1238.0,False,21304942.5,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CG,Chhattisgarh,2003,1066.0,,1066.0,False,21776082.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+CG,Chhattisgarh,2004,1395.0,,1395.0,False,22247221.5,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+CG,Chhattisgarh,2005,1412.0,,1412.0,False,22718361.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+CG,Chhattisgarh,2006,1483.0,,1483.0,False,23189500.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+CG,Chhattisgarh,2007,1593.0,,1593.0,False,23660640.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+CG,Chhattisgarh,2008,1773.0,,1773.0,False,24131779.5,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+CG,Chhattisgarh,2009,1802.0,,1802.0,False,24602919.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+CG,Chhattisgarh,2010,1126.0,,1126.0,False,25074058.5,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+CG,Chhattisgarh,2011,,,,False,25545198.0,False,farmers:non_reporting;farming_sector:non_reporting
+CG,Chhattisgarh,2012,,,,False,25950000.0,False,farmers:non_reporting;farming_sector:non_reporting
+CG,Chhattisgarh,2013,,,,False,26356000.0,False,farmers:non_reporting;farming_sector:non_reporting
+CG,Chhattisgarh,2014,443.0,312.0,755.0,True,26761000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+CG,Chhattisgarh,2015,854.0,100.0,954.0,True,27166000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+CG,Chhattisgarh,2016,585.0,97.0,682.0,True,27571000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+CG,Chhattisgarh,2017,285.0,217.0,502.0,True,27956000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+CG,Chhattisgarh,2018,182.0,285.0,467.0,True,28340000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+CG,Chhattisgarh,2019,233.0,266.0,499.0,True,28724000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+CG,Chhattisgarh,2020,227.0,310.0,537.0,True,29109000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+CG,Chhattisgarh,2021,71.0,268.0,339.0,True,29493000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+CG,Chhattisgarh,2022,113.0,383.0,496.0,True,29836000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+CG,Chhattisgarh,2023,73.0,395.0,468.0,True,30180000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2001,19.0,,19.0,False,378694.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2002,23.0,,23.0,False,399520.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2003,23.0,,23.0,False,420346.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2004,9.0,,9.0,False,441172.6,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2005,13.0,,13.0,False,461998.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2006,12.0,,12.0,False,482825.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2007,17.0,,17.0,False,503651.2,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2008,12.0,,12.0,False,524477.4,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2009,15.0,,15.0,False,545303.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2010,10.0,,10.0,False,566129.8,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2011,13.0,,13.0,False,586956.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2012,6.0,,6.0,False,625000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2013,15.0,,15.0,False,665000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2014,,0.0,,True,704000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2015,,0.0,,True,743000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2016,,0.0,,True,781000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2017,,0.0,,True,840000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2018,7.0,0.0,7.0,True,900000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2019,7.0,0.0,7.0,True,959000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2020,6.0,0.0,6.0,True,1018000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2021,14.0,3.0,17.0,True,1077000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2022,9.0,11.0,20.0,True,1170000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2023,15.0,9.0,24.0,True,1263000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+DL,Delhi,2001,18.0,,18.0,False,13850507.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DL,Delhi,2002,33.0,,33.0,False,14144250.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DL,Delhi,2003,8.0,,8.0,False,14437993.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+DL,Delhi,2004,13.0,,13.0,False,14731737.2,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+DL,Delhi,2005,7.0,,7.0,False,15025480.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+DL,Delhi,2006,3.0,,3.0,False,15319224.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+DL,Delhi,2007,23.0,,23.0,False,15612967.4,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+DL,Delhi,2008,16.0,,16.0,False,15906710.8,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+DL,Delhi,2009,5.0,,5.0,False,16200454.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+DL,Delhi,2010,9.0,,9.0,False,16494197.6,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+DL,Delhi,2011,10.0,,10.0,False,16787941.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+DL,Delhi,2012,21.0,,21.0,False,17166000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+DL,Delhi,2013,8.0,,8.0,False,17544000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+DL,Delhi,2014,,0.0,,True,17921000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+DL,Delhi,2015,,0.0,,True,18299000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+DL,Delhi,2016,,0.0,,True,18677000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+DL,Delhi,2017,,0.0,,True,19056000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+DL,Delhi,2018,,0.0,,True,19435000.0,False,farmers:non_reporting;ag_labourers:ncrb_2018;farming_sector:non_reporting
+DL,Delhi,2019,,0.0,,True,19814000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+DL,Delhi,2020,,0.0,,True,20193000.0,False,farmers:non_reporting;ag_labourers:ncrb_2020;farming_sector:non_reporting
+DL,Delhi,2021,,1.0,,True,20571000.0,False,farmers:non_reporting;ag_labourers:ncrb_2021;farming_sector:non_reporting
+DL,Delhi,2022,,0.0,,True,20965000.0,False,farmers:non_reporting;ag_labourers:ncrb_2022;farming_sector:non_reporting
+DL,Delhi,2023,,0.0,,True,21359000.0,False,farmers:non_reporting;ag_labourers:ncrb_2023;farming_sector:non_reporting
+GA,Goa,2001,18.0,,18.0,False,1347668.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GA,Goa,2002,11.0,,11.0,False,1358755.7,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GA,Goa,2003,18.0,,18.0,False,1369843.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GA,Goa,2004,8.0,,8.0,False,1380931.1,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+GA,Goa,2005,11.0,,11.0,False,1392018.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+GA,Goa,2006,5.0,,5.0,False,1403106.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+GA,Goa,2007,,,,False,1414194.2,False,farmers:non_reporting;farming_sector:non_reporting
+GA,Goa,2008,6.0,,6.0,False,1425281.9,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+GA,Goa,2009,4.0,,4.0,False,1436369.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+GA,Goa,2010,15.0,,15.0,False,1447457.3,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+GA,Goa,2011,1.0,,1.0,False,1458545.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+GA,Goa,2012,1.0,,1.0,False,1469000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+GA,Goa,2013,1.0,,1.0,False,1480000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+GA,Goa,2014,0.0,0.0,0.0,True,1491000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+GA,Goa,2015,0.0,0.0,0.0,True,1501000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+GA,Goa,2016,0.0,1.0,1.0,True,1512000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+GA,Goa,2017,0.0,2.0,2.0,True,1521000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+GA,Goa,2018,0.0,0.0,0.0,True,1531000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+GA,Goa,2019,0.0,1.0,1.0,True,1540000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+GA,Goa,2020,0.0,1.0,1.0,True,1549000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+GA,Goa,2021,0.0,2.0,2.0,True,1559000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+GA,Goa,2022,0.0,0.0,0.0,True,1567000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+GA,Goa,2023,0.0,0.0,0.0,True,1575000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+GJ,Gujarat,2001,594.0,,594.0,False,50671017.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GJ,Gujarat,2002,570.0,,570.0,False,51647884.5,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GJ,Gujarat,2003,581.0,,581.0,False,52624752.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+GJ,Gujarat,2004,523.0,,523.0,False,53601619.5,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+GJ,Gujarat,2005,615.0,,615.0,False,54578487.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+GJ,Gujarat,2006,487.0,,487.0,False,55555354.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+GJ,Gujarat,2007,317.0,,317.0,False,56532222.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+GJ,Gujarat,2008,526.0,,526.0,False,57509089.5,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+GJ,Gujarat,2009,588.0,,588.0,False,58485957.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+GJ,Gujarat,2010,523.0,,523.0,False,59462824.5,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+GJ,Gujarat,2011,578.0,,578.0,False,60439692.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+GJ,Gujarat,2012,564.0,,564.0,False,61383000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+GJ,Gujarat,2013,582.0,,582.0,False,62327000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+GJ,Gujarat,2014,45.0,555.0,600.0,True,63271000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+GJ,Gujarat,2015,57.0,244.0,301.0,True,64214000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+GJ,Gujarat,2016,30.0,378.0,408.0,True,65158000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+GJ,Gujarat,2017,4.0,129.0,133.0,True,66084000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+GJ,Gujarat,2018,21.0,111.0,132.0,True,67010000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+GJ,Gujarat,2019,3.0,115.0,118.0,True,67936000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+GJ,Gujarat,2020,5.0,121.0,126.0,True,68862000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+GJ,Gujarat,2021,,126.0,,True,69788000.0,False,farmers:non_reporting;ag_labourers:ncrb_2021;farming_sector:non_reporting
+GJ,Gujarat,2022,,154.0,,True,70648000.0,False,farmers:non_reporting;ag_labourers:ncrb_2022;farming_sector:non_reporting
+GJ,Gujarat,2023,1.0,140.0,141.0,True,71507000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+HR,Haryana,2001,145.0,,145.0,False,21144564.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HR,Haryana,2002,190.0,,190.0,False,21565253.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HR,Haryana,2003,207.0,,207.0,False,21985943.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HR,Haryana,2004,160.0,,160.0,False,22406633.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+HR,Haryana,2005,140.0,,140.0,False,22827323.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+HR,Haryana,2006,190.0,,190.0,False,23248013.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+HR,Haryana,2007,179.0,,179.0,False,23668702.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+HR,Haryana,2008,150.0,,150.0,False,24089392.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+HR,Haryana,2009,230.0,,230.0,False,24510082.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+HR,Haryana,2010,297.0,,297.0,False,24930772.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+HR,Haryana,2011,384.0,,384.0,False,25351462.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+HR,Haryana,2012,276.0,,276.0,False,25772000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+HR,Haryana,2013,374.0,,374.0,False,26193000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+HR,Haryana,2014,14.0,105.0,119.0,True,26614000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+HR,Haryana,2015,28.0,134.0,162.0,True,27034000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+HR,Haryana,2016,,250.0,,True,27455000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+HR,Haryana,2017,,109.0,,True,27861000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+HR,Haryana,2018,,104.0,,True,28266000.0,False,farmers:non_reporting;ag_labourers:ncrb_2018;farming_sector:non_reporting
+HR,Haryana,2019,,219.0,,True,28672000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+HR,Haryana,2020,,280.0,,True,29077000.0,False,farmers:non_reporting;ag_labourers:ncrb_2020;farming_sector:non_reporting
+HR,Haryana,2021,13.0,213.0,226.0,True,29483000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+HR,Haryana,2022,1.0,265.0,266.0,True,29846000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+HR,Haryana,2023,,98.0,,True,30209000.0,False,farmers:non_reporting;ag_labourers:ncrb_2023;farming_sector:non_reporting
+HP,Himachal Pradesh,2001,22.0,,22.0,False,6077900.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HP,Himachal Pradesh,2002,25.0,,25.0,False,6156570.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HP,Himachal Pradesh,2003,34.0,,34.0,False,6235240.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+HP,Himachal Pradesh,2004,52.0,,52.0,False,6313910.6,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+HP,Himachal Pradesh,2005,20.0,,20.0,False,6392580.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+HP,Himachal Pradesh,2006,22.0,,22.0,False,6471251.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+HP,Himachal Pradesh,2007,15.0,,15.0,False,6549921.2,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+HP,Himachal Pradesh,2008,188.0,,188.0,False,6628591.4,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+HP,Himachal Pradesh,2009,24.0,,24.0,False,6707261.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+HP,Himachal Pradesh,2010,61.0,,61.0,False,6785931.8,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+HP,Himachal Pradesh,2011,46.0,,46.0,False,6864602.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+HP,Himachal Pradesh,2012,29.0,,29.0,False,6923000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+HP,Himachal Pradesh,2013,33.0,,33.0,False,6982000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+HP,Himachal Pradesh,2014,32.0,31.0,63.0,True,7041000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+HP,Himachal Pradesh,2015,,46.0,,True,7100000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+HP,Himachal Pradesh,2016,,14.0,,True,7158000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+HP,Himachal Pradesh,2017,4.0,3.0,7.0,True,7206000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+HP,Himachal Pradesh,2018,5.0,12.0,17.0,True,7253000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+HP,Himachal Pradesh,2019,12.0,4.0,16.0,True,7300000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+HP,Himachal Pradesh,2020,6.0,18.0,24.0,True,7347000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+HP,Himachal Pradesh,2021,13.0,11.0,24.0,True,7394000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+HP,Himachal Pradesh,2022,4.0,,,True,7431000.0,False,farmers:ncrb_2022;ag_labourers:non_reporting;farming_sector:non_reporting
+HP,Himachal Pradesh,2023,,,,True,7468000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2001,15.0,,15.0,False,10143700.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JK,Jammu and Kashmir (incl. Ladakh),2002,16.0,,16.0,False,10383460.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JK,Jammu and Kashmir (incl. Ladakh),2003,8.0,,8.0,False,10623220.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JK,Jammu and Kashmir (incl. Ladakh),2004,1.0,,1.0,False,10862980.6,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+JK,Jammu and Kashmir (incl. Ladakh),2005,2.0,,2.0,False,11102740.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+JK,Jammu and Kashmir (incl. Ladakh),2006,34.0,,34.0,False,11342501.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+JK,Jammu and Kashmir (incl. Ladakh),2007,33.0,,33.0,False,11582261.2,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+JK,Jammu and Kashmir (incl. Ladakh),2008,6.0,,6.0,False,11822021.4,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+JK,Jammu and Kashmir (incl. Ladakh),2009,8.0,,8.0,False,12061781.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+JK,Jammu and Kashmir (incl. Ladakh),2010,18.0,,18.0,False,12301541.8,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+JK,Jammu and Kashmir (incl. Ladakh),2011,14.0,,14.0,False,12541302.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+JK,Jammu and Kashmir (incl. Ladakh),2012,10.0,,10.0,False,12670000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+JK,Jammu and Kashmir (incl. Ladakh),2013,18.0,,18.0,False,12798000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+JK,Jammu and Kashmir (incl. Ladakh),2014,12.0,25.0,37.0,True,12927000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+JK,Jammu and Kashmir (incl. Ladakh),2015,,21.0,,True,13056000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2016,,21.0,,True,13184000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2017,,1.0,,True,13288000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2018,5.0,21.0,26.0,True,13392000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+JK,Jammu and Kashmir (incl. Ladakh),2019,,31.0,,True,13496000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2020,,1.0,,True,13600000.0,False,farmers:non_reporting;ag_labourers:ncrb_2020;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2021,1.0,5.0,6.0,True,13705000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+JK,Jammu and Kashmir (incl. Ladakh),2022,,4.0,,True,13804000.0,False,farmers:non_reporting;ag_labourers:ncrb_2022;farming_sector:non_reporting
+JK,Jammu and Kashmir (incl. Ladakh),2023,1.0,13.0,14.0,True,13903000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+JH,Jharkhand,2001,27.0,,27.0,False,26945829.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JH,Jharkhand,2002,21.0,,21.0,False,27550059.5,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JH,Jharkhand,2003,21.0,,21.0,False,28154290.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+JH,Jharkhand,2004,21.0,,21.0,False,28758520.5,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+JH,Jharkhand,2005,124.0,,124.0,False,29362751.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+JH,Jharkhand,2006,103.0,,103.0,False,29966981.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+JH,Jharkhand,2007,113.0,,113.0,False,30571212.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+JH,Jharkhand,2008,71.0,,71.0,False,31175442.5,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+JH,Jharkhand,2009,164.0,,164.0,False,31779673.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+JH,Jharkhand,2010,173.0,,173.0,False,32383903.5,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+JH,Jharkhand,2011,94.0,,94.0,False,32988134.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+JH,Jharkhand,2012,119.0,,119.0,False,33551000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+JH,Jharkhand,2013,142.0,,142.0,False,34113000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+JH,Jharkhand,2014,,4.0,,True,34675000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+JH,Jharkhand,2015,,21.0,,True,35238000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+JH,Jharkhand,2016,3.0,,,True,35800000.0,False,farmers:ncrb_2016;ag_labourers:non_reporting;farming_sector:non_reporting
+JH,Jharkhand,2017,0.0,79.0,79.0,True,36334000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+JH,Jharkhand,2018,0.0,58.0,58.0,True,36869000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+JH,Jharkhand,2019,0.0,55.0,55.0,True,37403000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+JH,Jharkhand,2020,0.0,17.0,17.0,True,37937000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+JH,Jharkhand,2021,0.0,,,True,38471000.0,False,farmers:ncrb_2021;ag_labourers:non_reporting;farming_sector:non_reporting
+JH,Jharkhand,2022,0.0,7.0,7.0,True,38969000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+JH,Jharkhand,2023,0.0,,,True,39466000.0,False,farmers:ncrb_2023;ag_labourers:non_reporting;farming_sector:non_reporting
+KA,Karnataka,2001,2505.0,,2505.0,False,52850562.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KA,Karnataka,2002,2340.0,,2340.0,False,53675035.5,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KA,Karnataka,2003,2678.0,,2678.0,False,54499509.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KA,Karnataka,2004,1963.0,,1963.0,False,55323982.5,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+KA,Karnataka,2005,1883.0,,1883.0,False,56148456.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+KA,Karnataka,2006,1720.0,,1720.0,False,56972929.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+KA,Karnataka,2007,2135.0,,2135.0,False,57797403.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+KA,Karnataka,2008,1737.0,,1737.0,False,58621876.5,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+KA,Karnataka,2009,2282.0,,2282.0,False,59446350.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+KA,Karnataka,2010,2585.0,,2585.0,False,60270823.5,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+KA,Karnataka,2011,2100.0,,2100.0,False,61095297.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+KA,Karnataka,2012,1875.0,,1875.0,False,61722000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+KA,Karnataka,2013,1403.0,,1403.0,False,62349000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+KA,Karnataka,2014,321.0,447.0,768.0,True,62975000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+KA,Karnataka,2015,1197.0,372.0,1569.0,True,63602000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+KA,Karnataka,2016,1212.0,867.0,2079.0,True,64229000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+KA,Karnataka,2017,1157.0,1003.0,2160.0,True,64752000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+KA,Karnataka,2018,1365.0,1040.0,2405.0,True,65275000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+KA,Karnataka,2019,1331.0,661.0,1992.0,True,65798000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+KA,Karnataka,2020,1072.0,944.0,2016.0,True,66322000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+KA,Karnataka,2021,1170.0,999.0,2169.0,True,66845000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+KA,Karnataka,2022,1323.0,1069.0,2392.0,True,67268000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+KA,Karnataka,2023,1425.0,998.0,2423.0,True,67692000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+KL,Kerala,2001,1035.0,,1035.0,False,31841374.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KL,Kerala,2002,1533.0,,1533.0,False,31997842.7,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KL,Kerala,2003,1583.0,,1583.0,False,32154311.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+KL,Kerala,2004,903.0,,903.0,False,32310780.1,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+KL,Kerala,2005,1118.0,,1118.0,False,32467248.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+KL,Kerala,2006,1124.0,,1124.0,False,32623717.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+KL,Kerala,2007,1232.0,,1232.0,False,32780186.2,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+KL,Kerala,2008,820.0,,820.0,False,32936654.9,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+KL,Kerala,2009,896.0,,896.0,False,33093123.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+KL,Kerala,2010,895.0,,895.0,False,33249592.3,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+KL,Kerala,2011,830.0,,830.0,False,33406061.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+KL,Kerala,2012,1081.0,,1081.0,False,33641000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+KL,Kerala,2013,972.0,,972.0,False,33875000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+KL,Kerala,2014,107.0,700.0,807.0,True,34109000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+KL,Kerala,2015,3.0,207.0,210.0,True,34344000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+KL,Kerala,2016,23.0,298.0,321.0,True,34578000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+KL,Kerala,2017,42.0,257.0,299.0,True,34761000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+KL,Kerala,2018,25.0,186.0,211.0,True,34943000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+KL,Kerala,2019,22.0,128.0,150.0,True,35125000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+KL,Kerala,2020,57.0,341.0,398.0,True,35307000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+KL,Kerala,2021,34.0,270.0,304.0,True,35489000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+KL,Kerala,2022,27.0,206.0,233.0,True,35633000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+KL,Kerala,2023,3.0,129.0,132.0,True,35776000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+LD,Lakshadweep,2001,0.0,,0.0,False,60650.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+LD,Lakshadweep,2002,0.0,,0.0,False,61032.3,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+LD,Lakshadweep,2003,0.0,,0.0,False,61414.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+LD,Lakshadweep,2004,0.0,,0.0,False,61796.9,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+LD,Lakshadweep,2005,0.0,,0.0,False,62179.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+LD,Lakshadweep,2006,0.0,,0.0,False,62561.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+LD,Lakshadweep,2007,0.0,,0.0,False,62943.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+LD,Lakshadweep,2008,0.0,,0.0,False,63326.1,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+LD,Lakshadweep,2009,0.0,,0.0,False,63708.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+LD,Lakshadweep,2010,0.0,,0.0,False,64090.7,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+LD,Lakshadweep,2011,0.0,,0.0,False,64473.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+LD,Lakshadweep,2012,0.0,,0.0,False,65000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+LD,Lakshadweep,2013,0.0,,0.0,False,65000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+LD,Lakshadweep,2014,0.0,0.0,0.0,True,66000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+LD,Lakshadweep,2015,0.0,0.0,0.0,True,66000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+LD,Lakshadweep,2016,0.0,0.0,0.0,True,67000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+LD,Lakshadweep,2017,0.0,0.0,0.0,True,67000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+LD,Lakshadweep,2018,0.0,0.0,0.0,True,67000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+LD,Lakshadweep,2019,0.0,0.0,0.0,True,68000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+LD,Lakshadweep,2020,0.0,0.0,0.0,True,68000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+LD,Lakshadweep,2021,0.0,0.0,0.0,True,68000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+LD,Lakshadweep,2022,0.0,0.0,0.0,True,68000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+LD,Lakshadweep,2023,0.0,0.0,0.0,True,69000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+MP,Madhya Pradesh,2001,1372.0,,1372.0,False,60348023.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MP,Madhya Pradesh,2002,1340.0,,1340.0,False,61575901.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MP,Madhya Pradesh,2003,1445.0,,1445.0,False,62803780.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MP,Madhya Pradesh,2004,1638.0,,1638.0,False,64031658.8,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+MP,Madhya Pradesh,2005,1248.0,,1248.0,False,65259537.4,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+MP,Madhya Pradesh,2006,1375.0,,1375.0,False,66487416.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+MP,Madhya Pradesh,2007,1263.0,,1263.0,False,67715294.6,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+MP,Madhya Pradesh,2008,1379.0,,1379.0,False,68943173.2,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+MP,Madhya Pradesh,2009,1395.0,,1395.0,False,70171051.8,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+MP,Madhya Pradesh,2010,1237.0,,1237.0,False,71398930.4,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+MP,Madhya Pradesh,2011,1326.0,,1326.0,False,72626809.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+MP,Madhya Pradesh,2012,1172.0,,1172.0,False,73863000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+MP,Madhya Pradesh,2013,1090.0,,1090.0,False,75099000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+MP,Madhya Pradesh,2014,826.0,372.0,1198.0,True,76334000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+MP,Madhya Pradesh,2015,581.0,709.0,1290.0,True,77570000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+MP,Madhya Pradesh,2016,599.0,722.0,1321.0,True,78806000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+MP,Madhya Pradesh,2017,429.0,526.0,955.0,True,79948000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+MP,Madhya Pradesh,2018,303.0,352.0,655.0,True,81090000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+MP,Madhya Pradesh,2019,142.0,399.0,541.0,True,82232000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+MP,Madhya Pradesh,2020,235.0,500.0,735.0,True,83374000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+MP,Madhya Pradesh,2021,117.0,554.0,671.0,True,84516000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+MP,Madhya Pradesh,2022,92.0,549.0,641.0,True,85548000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+MP,Madhya Pradesh,2023,94.0,683.0,777.0,True,86579000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+MH,Maharashtra,2001,3536.0,,3536.0,False,96878627.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MH,Maharashtra,2002,3695.0,,3695.0,False,98428197.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MH,Maharashtra,2003,3836.0,,3836.0,False,99977768.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MH,Maharashtra,2004,4147.0,,4147.0,False,101527338.8,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+MH,Maharashtra,2005,3926.0,,3926.0,False,103076909.4,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+MH,Maharashtra,2006,4453.0,,4453.0,False,104626480.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+MH,Maharashtra,2007,4238.0,,4238.0,False,106176050.6,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+MH,Maharashtra,2008,3802.0,,3802.0,False,107725621.2,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+MH,Maharashtra,2009,2872.0,,2872.0,False,109275191.8,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+MH,Maharashtra,2010,3141.0,,3141.0,False,110824762.4,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+MH,Maharashtra,2011,3337.0,,3337.0,False,112374333.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+MH,Maharashtra,2012,3786.0,,3786.0,False,113645000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+MH,Maharashtra,2013,3146.0,,3146.0,False,114915000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+MH,Maharashtra,2014,2568.0,1436.0,4004.0,True,116186000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+MH,Maharashtra,2015,3030.0,1261.0,4291.0,True,117456000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+MH,Maharashtra,2016,2550.0,1111.0,3661.0,True,118727000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+MH,Maharashtra,2017,2426.0,1275.0,3701.0,True,119869000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+MH,Maharashtra,2018,2239.0,1355.0,3594.0,True,121011000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+MH,Maharashtra,2019,2680.0,1247.0,3927.0,True,122153000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+MH,Maharashtra,2020,2567.0,1439.0,4006.0,True,123295000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+MH,Maharashtra,2021,2640.0,1424.0,4064.0,True,124437000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+MH,Maharashtra,2022,2708.0,1540.0,4248.0,True,125411000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+MH,Maharashtra,2023,2518.0,1633.0,4151.0,True,126385000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+MN,Manipur,2001,0.0,,0.0,False,2293896.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MN,Manipur,2002,3.0,,3.0,False,2350085.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MN,Manipur,2003,4.0,,4.0,False,2406275.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MN,Manipur,2004,2.0,,2.0,False,2462465.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+MN,Manipur,2005,2.0,,2.0,False,2518655.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+MN,Manipur,2006,0.0,,0.0,False,2574845.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+MN,Manipur,2007,0.0,,0.0,False,2631034.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+MN,Manipur,2008,2.0,,2.0,False,2687224.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+MN,Manipur,2009,1.0,,1.0,False,2743414.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+MN,Manipur,2010,4.0,,4.0,False,2799604.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+MN,Manipur,2011,0.0,,0.0,False,2855794.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+MN,Manipur,2012,0.0,,0.0,False,2887000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+MN,Manipur,2013,1.0,,1.0,False,2918000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+MN,Manipur,2014,0.0,0.0,0.0,True,2949000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+MN,Manipur,2015,1.0,0.0,1.0,True,2980000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+MN,Manipur,2016,1.0,0.0,1.0,True,3012000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+MN,Manipur,2017,0.0,0.0,0.0,True,3042000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+MN,Manipur,2018,2.0,0.0,2.0,True,3073000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+MN,Manipur,2019,0.0,0.0,0.0,True,3103000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+MN,Manipur,2020,1.0,0.0,1.0,True,3134000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+MN,Manipur,2021,0.0,0.0,0.0,True,3165000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+MN,Manipur,2022,0.0,0.0,0.0,True,3194000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+MN,Manipur,2023,0.0,0.0,0.0,True,3223000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+ML,Meghalaya,2001,4.0,,4.0,False,2318822.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+ML,Meghalaya,2002,8.0,,8.0,False,2383628.7,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+ML,Meghalaya,2003,4.0,,4.0,False,2448435.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+ML,Meghalaya,2004,11.0,,11.0,False,2513242.1,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+ML,Meghalaya,2005,4.0,,4.0,False,2578048.8,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+ML,Meghalaya,2006,3.0,,3.0,False,2642855.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+ML,Meghalaya,2007,18.0,,18.0,False,2707662.2,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+ML,Meghalaya,2008,9.0,,9.0,False,2772468.9,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+ML,Meghalaya,2009,21.0,,21.0,False,2837275.6,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+ML,Meghalaya,2010,16.0,,16.0,False,2902082.3,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+ML,Meghalaya,2011,22.0,,22.0,False,2966889.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+ML,Meghalaya,2012,10.0,,10.0,False,2999000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+ML,Meghalaya,2013,5.0,,5.0,False,3032000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+ML,Meghalaya,2014,,2.0,,True,3064000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+ML,Meghalaya,2015,2.0,1.0,3.0,True,3096000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+ML,Meghalaya,2016,2.0,3.0,5.0,True,3129000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+ML,Meghalaya,2017,0.0,6.0,6.0,True,3161000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+ML,Meghalaya,2018,0.0,0.0,0.0,True,3192000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+ML,Meghalaya,2019,0.0,1.0,1.0,True,3224000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+ML,Meghalaya,2020,4.0,1.0,5.0,True,3256000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+ML,Meghalaya,2021,3.0,4.0,7.0,True,3288000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+ML,Meghalaya,2022,7.0,0.0,7.0,True,3318000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+ML,Meghalaya,2023,14.0,6.0,20.0,True,3349000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+MZ,Mizoram,2001,0.0,,0.0,False,888573.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MZ,Mizoram,2002,3.0,,3.0,False,909436.3,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MZ,Mizoram,2003,0.0,,0.0,False,930299.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+MZ,Mizoram,2004,2.0,,2.0,False,951162.9,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+MZ,Mizoram,2005,0.0,,0.0,False,972026.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+MZ,Mizoram,2006,1.0,,1.0,False,992889.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+MZ,Mizoram,2007,0.0,,0.0,False,1013752.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+MZ,Mizoram,2008,0.0,,0.0,False,1034616.1,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+MZ,Mizoram,2009,38.0,,38.0,False,1055479.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+MZ,Mizoram,2010,5.0,,5.0,False,1076342.7,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+MZ,Mizoram,2011,14.0,,14.0,False,1097206.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+MZ,Mizoram,2012,10.0,,10.0,False,1109000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+MZ,Mizoram,2013,6.0,,6.0,False,1121000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+MZ,Mizoram,2014,0.0,5.0,5.0,True,1133000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+MZ,Mizoram,2015,0.0,1.0,1.0,True,1145000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+MZ,Mizoram,2016,0.0,7.0,7.0,True,1157000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+MZ,Mizoram,2017,0.0,0.0,0.0,True,1169000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+MZ,Mizoram,2018,17.0,0.0,17.0,True,1181000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+MZ,Mizoram,2019,22.0,4.0,26.0,True,1192000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+MZ,Mizoram,2020,4.0,0.0,4.0,True,1204000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+MZ,Mizoram,2021,,1.0,,True,1216000.0,False,farmers:non_reporting;ag_labourers:ncrb_2021;farming_sector:non_reporting
+MZ,Mizoram,2022,,0.0,,True,1227000.0,False,farmers:non_reporting;ag_labourers:ncrb_2022;farming_sector:non_reporting
+MZ,Mizoram,2023,,0.0,,True,1238000.0,False,farmers:non_reporting;ag_labourers:ncrb_2023;farming_sector:non_reporting
+NL,Nagaland,2001,0.0,,0.0,False,1990036.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+NL,Nagaland,2002,0.0,,0.0,False,1988882.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+NL,Nagaland,2003,0.0,,0.0,False,1987729.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+NL,Nagaland,2004,0.0,,0.0,False,1986575.8,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+NL,Nagaland,2005,0.0,,0.0,False,1985422.4,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+NL,Nagaland,2006,2.0,,2.0,False,1984269.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+NL,Nagaland,2007,0.0,,0.0,False,1983115.6,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+NL,Nagaland,2008,2.0,,2.0,False,1981962.2,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+NL,Nagaland,2009,1.0,,1.0,False,1980808.8,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+NL,Nagaland,2010,0.0,,0.0,False,1979655.4,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+NL,Nagaland,2011,2.0,,2.0,False,1978502.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+NL,Nagaland,2012,9.0,,9.0,False,2000000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+NL,Nagaland,2013,2.0,,2.0,False,2022000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+NL,Nagaland,2014,0.0,0.0,0.0,True,2043000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+NL,Nagaland,2015,0.0,0.0,0.0,True,2065000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+NL,Nagaland,2016,0.0,0.0,0.0,True,2086000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+NL,Nagaland,2017,0.0,0.0,0.0,True,2108000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+NL,Nagaland,2018,0.0,2.0,2.0,True,2129000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+NL,Nagaland,2019,0.0,1.0,1.0,True,2150000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+NL,Nagaland,2020,0.0,0.0,0.0,True,2171000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+NL,Nagaland,2021,1.0,0.0,1.0,True,2192000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+NL,Nagaland,2022,1.0,0.0,1.0,True,2213000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+NL,Nagaland,2023,0.0,0.0,0.0,True,2233000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+OD,Odisha,2001,256.0,,256.0,False,36804660.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+OD,Odisha,2002,345.0,,345.0,False,37321615.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+OD,Odisha,2003,365.0,,365.0,False,37838571.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+OD,Odisha,2004,379.0,,379.0,False,38355527.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+OD,Odisha,2005,254.0,,254.0,False,38872483.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+OD,Odisha,2006,283.0,,283.0,False,39389439.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+OD,Odisha,2007,240.0,,240.0,False,39906394.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+OD,Odisha,2008,260.0,,260.0,False,40423350.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+OD,Odisha,2009,154.0,,154.0,False,40940306.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+OD,Odisha,2010,162.0,,162.0,False,41457262.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+OD,Odisha,2011,144.0,,144.0,False,41974218.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+OD,Odisha,2012,146.0,,146.0,False,42205000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+OD,Odisha,2013,150.0,,150.0,False,42436000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+OD,Odisha,2014,5.0,97.0,102.0,True,42667000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+OD,Odisha,2015,23.0,27.0,50.0,True,42897000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+OD,Odisha,2016,20.0,101.0,121.0,True,43128000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+OD,Odisha,2017,,,,True,43309000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+OD,Odisha,2018,,,,True,43490000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+OD,Odisha,2019,,,,True,43671000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+OD,Odisha,2020,,7.0,,True,43852000.0,False,farmers:non_reporting;ag_labourers:ncrb_2020;farming_sector:non_reporting
+OD,Odisha,2021,,,,True,44033000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+OD,Odisha,2022,,,,True,44162000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+OD,Odisha,2023,,,,True,44291000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2001,91.0,,91.0,False,974345.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PY,Puducherry,2002,88.0,,88.0,False,1001705.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PY,Puducherry,2003,23.0,,23.0,False,1029066.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PY,Puducherry,2004,145.0,,145.0,False,1056427.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+PY,Puducherry,2005,147.0,,147.0,False,1083788.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+PY,Puducherry,2006,175.0,,175.0,False,1111149.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+PY,Puducherry,2007,197.0,,197.0,False,1138509.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+PY,Puducherry,2008,17.0,,17.0,False,1165870.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+PY,Puducherry,2009,154.0,,154.0,False,1193231.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+PY,Puducherry,2010,4.0,,4.0,False,1220592.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+PY,Puducherry,2011,,,,False,1247953.0,False,farmers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2012,,,,False,1279000.0,False,farmers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2013,,,,False,1310000.0,False,farmers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2014,,16.0,,True,1340000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+PY,Puducherry,2015,,12.0,,True,1371000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+PY,Puducherry,2016,2.0,27.0,29.0,True,1402000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+PY,Puducherry,2017,0.0,,,True,1436000.0,False,farmers:ncrb_2017;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2018,0.0,,,True,1470000.0,False,farmers:ncrb_2018;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2019,0.0,,,True,1504000.0,False,farmers:ncrb_2019;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2020,0.0,,,True,1537000.0,False,farmers:ncrb_2020;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2021,0.0,,,True,1571000.0,False,farmers:ncrb_2021;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2022,0.0,,,True,1608000.0,False,farmers:ncrb_2022;ag_labourers:non_reporting;farming_sector:non_reporting
+PY,Puducherry,2023,0.0,10.0,10.0,True,1646000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+PB,Punjab,2001,45.0,,45.0,False,24358999.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PB,Punjab,2002,40.0,,40.0,False,24697432.9,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PB,Punjab,2003,26.0,,26.0,False,25035866.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+PB,Punjab,2004,74.0,,74.0,False,25374300.7,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+PB,Punjab,2005,47.0,,47.0,False,25712734.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+PB,Punjab,2006,85.0,,85.0,False,26051168.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+PB,Punjab,2007,88.0,,88.0,False,26389602.4,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+PB,Punjab,2008,66.0,,66.0,False,26728036.3,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+PB,Punjab,2009,97.0,,97.0,False,27066470.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+PB,Punjab,2010,80.0,,80.0,False,27404904.1,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+PB,Punjab,2011,98.0,,98.0,False,27743338.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+PB,Punjab,2012,75.0,,75.0,False,28023000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+PB,Punjab,2013,83.0,,83.0,False,28302000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+PB,Punjab,2014,24.0,40.0,64.0,True,28581000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+PB,Punjab,2015,100.0,24.0,124.0,True,28861000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+PB,Punjab,2016,232.0,48.0,280.0,True,29140000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+PB,Punjab,2017,243.0,48.0,291.0,True,29380000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+PB,Punjab,2018,229.0,94.0,323.0,True,29619000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+PB,Punjab,2019,239.0,63.0,302.0,True,29859000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+PB,Punjab,2020,174.0,83.0,257.0,True,30099000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+PB,Punjab,2021,171.0,99.0,270.0,True,30339000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+PB,Punjab,2022,157.0,47.0,204.0,True,30535000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+PB,Punjab,2023,141.0,33.0,174.0,True,30730000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+RJ,Rajasthan,2001,505.0,,505.0,False,56507188.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+RJ,Rajasthan,2002,587.0,,587.0,False,57711312.9,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+RJ,Rajasthan,2003,636.0,,636.0,False,58915437.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+RJ,Rajasthan,2004,749.0,,749.0,False,60119562.7,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+RJ,Rajasthan,2005,461.0,,461.0,False,61323687.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+RJ,Rajasthan,2006,395.0,,395.0,False,62527812.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+RJ,Rajasthan,2007,618.0,,618.0,False,63731937.4,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+RJ,Rajasthan,2008,796.0,,796.0,False,64936062.3,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+RJ,Rajasthan,2009,851.0,,851.0,False,66140187.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+RJ,Rajasthan,2010,390.0,,390.0,False,67344312.1,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+RJ,Rajasthan,2011,268.0,,268.0,False,68548437.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+RJ,Rajasthan,2012,270.0,,270.0,False,69687000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+RJ,Rajasthan,2013,292.0,,292.0,False,70825000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+RJ,Rajasthan,2014,,373.0,,True,71963000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+RJ,Rajasthan,2015,3.0,73.0,76.0,True,73102000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+RJ,Rajasthan,2016,4.0,39.0,43.0,True,74240000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+RJ,Rajasthan,2017,3.0,69.0,72.0,True,75248000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+RJ,Rajasthan,2018,2.0,18.0,20.0,True,76256000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+RJ,Rajasthan,2019,2.0,24.0,26.0,True,77264000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+RJ,Rajasthan,2020,0.0,101.0,101.0,True,78273000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+RJ,Rajasthan,2021,0.0,141.0,141.0,True,79281000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+RJ,Rajasthan,2022,0.0,239.0,239.0,True,80153000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+RJ,Rajasthan,2023,0.0,250.0,250.0,True,81025000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+SK,Sikkim,2001,18.0,,18.0,False,540851.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+SK,Sikkim,2002,8.0,,8.0,False,547823.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+SK,Sikkim,2003,31.0,,31.0,False,554796.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+SK,Sikkim,2004,49.0,,49.0,False,561768.8,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+SK,Sikkim,2005,41.0,,41.0,False,568741.4,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+SK,Sikkim,2006,35.0,,35.0,False,575714.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+SK,Sikkim,2007,21.0,,21.0,False,582686.6,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+SK,Sikkim,2008,60.0,,60.0,False,589659.2,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+SK,Sikkim,2009,23.0,,23.0,False,596631.8,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+SK,Sikkim,2010,19.0,,19.0,False,603604.4,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+SK,Sikkim,2011,12.0,,12.0,False,610577.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+SK,Sikkim,2012,19.0,,19.0,False,617000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+SK,Sikkim,2013,35.0,,35.0,False,624000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+SK,Sikkim,2014,35.0,0.0,35.0,True,631000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+SK,Sikkim,2015,15.0,3.0,18.0,True,637000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+SK,Sikkim,2016,12.0,2.0,14.0,True,644000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+SK,Sikkim,2017,7.0,4.0,11.0,True,650000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+SK,Sikkim,2018,1.0,8.0,9.0,True,657000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+SK,Sikkim,2019,,2.0,,True,664000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+SK,Sikkim,2020,6.0,10.0,16.0,True,670000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+SK,Sikkim,2021,8.0,9.0,17.0,True,677000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+SK,Sikkim,2022,1.0,6.0,7.0,True,683000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+SK,Sikkim,2023,,6.0,,True,689000.0,False,farmers:non_reporting;ag_labourers:ncrb_2023;farming_sector:non_reporting
+TN,Tamil Nadu,2001,985.0,,985.0,False,62405679.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TN,Tamil Nadu,2002,1455.0,,1455.0,False,63379814.1,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TN,Tamil Nadu,2003,1052.0,,1052.0,False,64353949.2,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TN,Tamil Nadu,2004,1599.0,,1599.0,False,65328084.3,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+TN,Tamil Nadu,2005,1255.0,,1255.0,False,66302219.4,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+TN,Tamil Nadu,2006,426.0,,426.0,False,67276354.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+TN,Tamil Nadu,2007,484.0,,484.0,False,68250489.6,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+TN,Tamil Nadu,2008,512.0,,512.0,False,69224624.7,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+TN,Tamil Nadu,2009,1060.0,,1060.0,False,70198759.8,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+TN,Tamil Nadu,2010,541.0,,541.0,False,71172894.9,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+TN,Tamil Nadu,2011,623.0,,623.0,False,72147030.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+TN,Tamil Nadu,2012,499.0,,499.0,False,72645000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+TN,Tamil Nadu,2013,105.0,,105.0,False,73142000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+TN,Tamil Nadu,2014,68.0,827.0,895.0,True,73640000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+TN,Tamil Nadu,2015,2.0,604.0,606.0,True,74137000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+TN,Tamil Nadu,2016,36.0,345.0,381.0,True,74635000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+TN,Tamil Nadu,2017,19.0,369.0,388.0,True,74989000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+TN,Tamil Nadu,2018,6.0,395.0,401.0,True,75342000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+TN,Tamil Nadu,2019,6.0,421.0,427.0,True,75695000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+TN,Tamil Nadu,2020,79.0,398.0,477.0,True,76049000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+TN,Tamil Nadu,2021,61.0,538.0,599.0,True,76402000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+TN,Tamil Nadu,2022,122.0,606.0,728.0,True,76631000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+TN,Tamil Nadu,2023,67.0,564.0,631.0,True,76860000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+TR,Tripura,2001,41.0,,41.0,False,3199203.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TR,Tripura,2002,41.0,,41.0,False,3246674.4,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TR,Tripura,2003,4.0,,4.0,False,3294145.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+TR,Tripura,2004,15.0,,15.0,False,3341617.2,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+TR,Tripura,2005,29.0,,29.0,False,3389088.6,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+TR,Tripura,2006,7.0,,7.0,False,3436560.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+TR,Tripura,2007,,,,False,3484031.4,False,farmers:non_reporting;farming_sector:non_reporting
+TR,Tripura,2008,50.0,,50.0,False,3531502.8,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+TR,Tripura,2009,45.0,,45.0,False,3578974.2,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+TR,Tripura,2010,58.0,,58.0,False,3626445.6,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+TR,Tripura,2011,20.0,,20.0,False,3673917.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+TR,Tripura,2012,18.0,,18.0,False,3714000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+TR,Tripura,2013,56.0,,56.0,False,3754000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+TR,Tripura,2014,,32.0,,True,3794000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+TR,Tripura,2015,1.0,48.0,49.0,True,3834000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+TR,Tripura,2016,4.0,18.0,22.0,True,3874000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+TR,Tripura,2017,0.0,15.0,15.0,True,3914000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+TR,Tripura,2018,0.0,10.0,10.0,True,3953000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+TR,Tripura,2019,0.0,38.0,38.0,True,3992000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+TR,Tripura,2020,0.0,,,True,4032000.0,False,farmers:ncrb_2020;ag_labourers:non_reporting;farming_sector:non_reporting
+TR,Tripura,2021,0.0,,,True,4071000.0,False,farmers:ncrb_2021;ag_labourers:non_reporting;farming_sector:non_reporting
+TR,Tripura,2022,0.0,,,True,4109000.0,False,farmers:ncrb_2022;ag_labourers:non_reporting;farming_sector:non_reporting
+TR,Tripura,2023,0.0,,,True,4147000.0,False,farmers:ncrb_2023;ag_labourers:non_reporting;farming_sector:non_reporting
+UP,Uttar Pradesh,2001,688.0,,688.0,False,166197921.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UP,Uttar Pradesh,2002,525.0,,525.0,False,169559363.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UP,Uttar Pradesh,2003,387.0,,387.0,False,172920805.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UP,Uttar Pradesh,2004,496.0,,496.0,False,176282247.0,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+UP,Uttar Pradesh,2005,522.0,,522.0,False,179643689.0,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+UP,Uttar Pradesh,2006,411.0,,411.0,False,183005131.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+UP,Uttar Pradesh,2007,486.0,,486.0,False,186366573.0,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+UP,Uttar Pradesh,2008,745.0,,745.0,False,189728015.0,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+UP,Uttar Pradesh,2009,656.0,,656.0,False,193089457.0,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+UP,Uttar Pradesh,2010,548.0,,548.0,False,196450899.0,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+UP,Uttar Pradesh,2011,645.0,,645.0,False,199812341.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+UP,Uttar Pradesh,2012,745.0,,745.0,False,203067000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+UP,Uttar Pradesh,2013,750.0,,750.0,False,206322000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+UP,Uttar Pradesh,2014,63.0,129.0,192.0,True,209577000.0,False,farmers:ncrb_2014;ag_labourers:ncrb_2014;farming_sector:ncrb_2014
+UP,Uttar Pradesh,2015,145.0,179.0,324.0,True,212832000.0,False,farmers:ncrb_2015;ag_labourers:ncrb_2015;farming_sector:ncrb_2015
+UP,Uttar Pradesh,2016,69.0,115.0,184.0,True,216087000.0,False,farmers:ncrb_2016;ag_labourers:ncrb_2016;farming_sector:ncrb_2016
+UP,Uttar Pradesh,2017,110.0,93.0,203.0,True,219051000.0,False,farmers:ncrb_2017;ag_labourers:ncrb_2017;farming_sector:ncrb_2017
+UP,Uttar Pradesh,2018,80.0,174.0,254.0,True,222015000.0,False,farmers:ncrb_2018;ag_labourers:ncrb_2018;farming_sector:ncrb_2018
+UP,Uttar Pradesh,2019,108.0,153.0,261.0,True,224979000.0,False,farmers:ncrb_2019;ag_labourers:ncrb_2019;farming_sector:ncrb_2019
+UP,Uttar Pradesh,2020,87.0,85.0,172.0,True,227943000.0,False,farmers:ncrb_2020;ag_labourers:ncrb_2020;farming_sector:ncrb_2020
+UP,Uttar Pradesh,2021,13.0,226.0,239.0,True,230907000.0,False,farmers:ncrb_2021;ag_labourers:ncrb_2021;farming_sector:ncrb_2021
+UP,Uttar Pradesh,2022,58.0,355.0,413.0,True,233297000.0,False,farmers:ncrb_2022;ag_labourers:ncrb_2022;farming_sector:ncrb_2022
+UP,Uttar Pradesh,2023,36.0,321.0,357.0,True,235687000.0,False,farmers:ncrb_2023;ag_labourers:ncrb_2023;farming_sector:ncrb_2023
+UK,Uttarakhand,2001,21.0,,21.0,False,8489349.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UK,Uttarakhand,2002,34.0,,34.0,False,8649043.3,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UK,Uttarakhand,2003,41.0,,41.0,False,8808737.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+UK,Uttarakhand,2004,22.0,,22.0,False,8968431.9,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+UK,Uttarakhand,2005,24.0,,24.0,False,9128126.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+UK,Uttarakhand,2006,51.0,,51.0,False,9287820.5,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+UK,Uttarakhand,2007,28.0,,28.0,False,9447514.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+UK,Uttarakhand,2008,28.0,,28.0,False,9607209.1,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+UK,Uttarakhand,2009,30.0,,30.0,False,9766903.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+UK,Uttarakhand,2010,39.0,,39.0,False,9926597.7,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+UK,Uttarakhand,2011,25.0,,25.0,False,10086292.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+UK,Uttarakhand,2012,14.0,,14.0,False,10220000.0,False,farmers:ncrb_2012;farming_sector:ncrb_2012
+UK,Uttarakhand,2013,15.0,,15.0,False,10354000.0,False,farmers:ncrb_2013;farming_sector:ncrb_2013
+UK,Uttarakhand,2014,,0.0,,True,10487000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+UK,Uttarakhand,2015,,2.0,,True,10621000.0,False,farmers:non_reporting;ag_labourers:ncrb_2015;farming_sector:non_reporting
+UK,Uttarakhand,2016,,3.0,,True,10755000.0,False,farmers:non_reporting;ag_labourers:ncrb_2016;farming_sector:non_reporting
+UK,Uttarakhand,2017,,0.0,,True,10884000.0,False,farmers:non_reporting;ag_labourers:ncrb_2017;farming_sector:non_reporting
+UK,Uttarakhand,2018,,0.0,,True,11013000.0,False,farmers:non_reporting;ag_labourers:ncrb_2018;farming_sector:non_reporting
+UK,Uttarakhand,2019,,0.0,,True,11141000.0,False,farmers:non_reporting;ag_labourers:ncrb_2019;farming_sector:non_reporting
+UK,Uttarakhand,2020,,0.0,,True,11270000.0,False,farmers:non_reporting;ag_labourers:ncrb_2020;farming_sector:non_reporting
+UK,Uttarakhand,2021,,0.0,,True,11399000.0,False,farmers:non_reporting;ag_labourers:ncrb_2021;farming_sector:non_reporting
+UK,Uttarakhand,2022,,0.0,,True,11518000.0,False,farmers:non_reporting;ag_labourers:ncrb_2022;farming_sector:non_reporting
+UK,Uttarakhand,2023,,7.0,,True,11637000.0,False,farmers:non_reporting;ag_labourers:ncrb_2023;farming_sector:non_reporting
+WB,West Bengal,2001,1246.0,,1246.0,False,80176197.0,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+WB,West Bengal,2002,1518.0,,1518.0,False,81286188.8,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+WB,West Bengal,2003,1036.0,,1036.0,False,82396180.6,False,farmers:farm_ogd0112;farming_sector:farm_ogd0112
+WB,West Bengal,2004,822.0,,822.0,False,83506172.4,False,farmers:ncrb_2004;farming_sector:ncrb_2004
+WB,West Bengal,2005,965.0,,965.0,False,84616164.2,False,farmers:ncrb_2005;farming_sector:ncrb_2005
+WB,West Bengal,2006,1189.0,,1189.0,False,85726156.0,False,farmers:ncrb_2006;farming_sector:ncrb_2006
+WB,West Bengal,2007,1102.0,,1102.0,False,86836147.8,False,farmers:ncrb_2007;farming_sector:ncrb_2007
+WB,West Bengal,2008,759.0,,759.0,False,87946139.6,False,farmers:ncrb_2008;farming_sector:ncrb_2008
+WB,West Bengal,2009,1054.0,,1054.0,False,89056131.4,False,farmers:ncrb_2009;farming_sector:ncrb_2009
+WB,West Bengal,2010,993.0,,993.0,False,90166123.2,False,farmers:ncrb_2010;farming_sector:ncrb_2010
+WB,West Bengal,2011,807.0,,807.0,False,91276115.0,False,farmers:ncrb_2011;farming_sector:ncrb_2011
+WB,West Bengal,2012,,,,False,92037000.0,False,farmers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2013,,,,False,92797000.0,False,farmers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2014,,230.0,,True,93558000.0,False,farmers:non_reporting;ag_labourers:ncrb_2014;farming_sector:non_reporting
+WB,West Bengal,2015,,,,True,94318000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2016,,,,True,95079000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2017,,,,True,95688000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2018,,,,True,96297000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2019,,,,True,96906000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2020,,,,True,97516000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2021,,,,True,98125000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2022,,,,True,98604000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting
+WB,West Bengal,2023,,,,True,99084000.0,False,farmers:non_reporting;ag_labourers:non_reporting;farming_sector:non_reporting

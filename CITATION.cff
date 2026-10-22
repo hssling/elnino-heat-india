@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (manuscript under review) and this repository."
+title: "El Niño, heat extremes, drought and mortality in India, 2001–2024: data and code"
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/hssling/elnino-heat-india"
+url: "https://github.com/hssling/elnino-heat-india"
+type: software
+authors:
+  - family-names: "Siddalingaiah"
+    given-names: "H S"
+    orcid: "https://orcid.org/0000-0002-4771-8285"
+    affiliation: "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India"
+    email: "hssling@yahoo.com"
+keywords:
+  - El Niño–Southern Oscillation
+  - heat-related mortality
+  - heatwaves
+  - drought
+  - farmer suicides
+  - foodgrain production
+  - India
+  - climate and health
+abstract: >-
+  State-level panels of NCRB-recorded heat/sun-stroke deaths (2001–2024), farming-sector
+  suicides (2001–2023, aggregated state-year counts) and foodgrain production (1997–2016) in
+  34 Indian units, compiled from official documents, with ENSO indices, IMD-based climate
+  exposures, population denominators, the Python pipeline that builds them and the R analysis
+  (negative binomial mixed models, leave-one-El-Niño-out and rolling-origin validation,
+  mediation through heatwave days, temperature and monsoon onset, and 2027 projections) of the
+  associated paper.
+references:
+  - type: software
+    title: "El Niño and malaria across Indian states, 2002–2025: data and code"
+    authors:
+      - family-names: "Siddalingaiah"
+        given-names: "H S"
+    version: 1.0.0
+    doi: 10.5281/zenodo.23424043
+    repository-code: "https://github.com/hssling/elnino-malaria-india"

@@ -1,0 +1,309 @@
+Model,Unit-years used,Random effects used,Structures tried,Dropped: first missing variable,Dropped: unit,Dropped: years,Dropped rows
+"Heat: primary (El Niño and La Niña terms)",816,"uncorrelated","us > diag","–","–","–",0
+"Heat: primary, random intercept only (LRT reference and sensitivity)",816,"intercept only","int","–","–","–",0
+"Heat: El Niño-decaying indicator",816,"uncorrelated","us > diag","–","–","–",0
+"Heat: primary + Dipole Mode Index + ONI x DMI",816,"uncorrelated","us > diag","–","–","–",0
+"Heat: heatwave days",816,"uncorrelated","us > diag","–","–","–",0
+"Heat: March-June Tmax anomaly",816,"correlated","us","–","–","–",0
+"Heat sensitivity: Symmetric single ONI term (spec section 4 form)",816,"correlated","us","–","–","–",0
+"Heat sensitivity: RONI in place of the traditional ONI",816,"uncorrelated","us > diag","–","–","–",0
+"Heat sensitivity: Excluding 2020-2021",748,"uncorrelated","us > diag","–","–","–",0
+"Heat sensitivity: Excluding Dadra and Nagar Haveli and Daman and Diu",792,"uncorrelated","us > diag","–","–","–",0
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","SPI-3 (September)","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","SPI-3 (September)","LD","2001–2023",23
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","SPI-3 (September)","TN","2011–2012",2
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farming-sector suicides: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","June-September rainfall departure","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","GA","2007",1
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","June-September rainfall departure","LD","2001–2023",23
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","ML","2014",1
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","June-September rainfall departure","TN","2011–2012",2
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farming-sector suicides: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farming-sector suicides: El Niño-developing vs other years",670,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","SPI-3 (September)","AN","2001–2023",23
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2012",1
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","SPI-3 (September)","LD","2001–2023",23
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","SPI-3 (September)","PY","2011–2012",2
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","SPI-3 (September)","TN","2011–2012",2
+"Farm sensitivity, printed zeros as true zeros: per 1-unit decrease in SPI-3 (September)",730,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012",1
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","SPI-3 (September)","AN","2001–2010, 2013",11
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012",2
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","SPI-3 (September)","LD","2001–2013",13
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2013",3
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","SPI-3 (September)","TN","2011–2012",2
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007",1
+"Farm sensitivity, 2001-2013: per 1-unit decrease in SPI-3 (September)",404,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2013",2
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","previous-year SPI-3","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","previous-year SPI-3","LD","2001–2023",23
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","previous-year SPI-3","TN","2012–2013",2
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 1-unit decrease in SPI-3 (September)",625,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","SPI-3 (September)","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","SPI-3 (September)","LD","2001–2023",23
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","SPI-3 (September)","TN","2011–2012",2
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 1-unit decrease in SPI-3 (September)",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","SPI-3 (September)","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","SPI-3 (September)","LD","2001–2023",23
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","SPI-3 (September)","TN","2011–2012",2
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 1-unit decrease in SPI-3 (September)",606,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","June-September rainfall departure","AN","2001–2023",23
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2012",1
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","June-September rainfall departure","LD","2001–2023",23
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","June-September rainfall departure","PY","2011–2012",2
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","June-September rainfall departure","TN","2011–2012",2
+"Farm sensitivity, printed zeros as true zeros: per 10-point June-September rainfall deficit",730,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012",1
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","June-September rainfall departure","AN","2001–2010, 2013",11
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","AN","2011–2012",2
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","June-September rainfall departure","LD","2001–2013",13
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","PY","2011–2013",3
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","June-September rainfall departure","TN","2011–2012",2
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","TR","2007",1
+"Farm sensitivity, 2001-2013: per 10-point June-September rainfall deficit",404,"correlated","us","farming-sector suicides (non-reporting)","WB","2012–2013",2
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","previous-year rainfall departure","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","previous-year rainfall departure","LD","2001–2023",23
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","previous-year rainfall departure","TN","2012–2013",2
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, lag-1 exposure: per 10-point June-September rainfall deficit",625,"correlated","us","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","June-September rainfall departure","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DNH_DD","2014–2017",4
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","June-September rainfall departure","LD","2001–2023",23
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","June-September rainfall departure","TN","2011–2012",2
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, excluding JK and AR: per 10-point June-September rainfall deficit",590,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","June-September rainfall departure","AN","2001–2010, 2013–2014, 2016–2023",20
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","June-September rainfall departure","LD","2001–2023",23
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","June-September rainfall departure","TN","2011–2012",2
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: per 10-point June-September rainfall deficit",606,"correlated","us","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Farm sensitivity, printed zeros as true zeros: El Niño-developing vs other years",780,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2012",1
+"Farm sensitivity, printed zeros as true zeros: El Niño-developing vs other years",780,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012",1
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012",2
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2013",3
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007",1
+"Farm sensitivity, 2001-2013: El Niño-developing vs other years",430,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2013",2
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AN","2011–2012, 2015",3
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","AR","2014, 2017–2019, 2023",5
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","BR","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","CG","2011–2013",3
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","DL","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GA","2007",1
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","GJ","2021–2022",2
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HR","2016–2020, 2023",6
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","HP","2015–2016, 2022–2023",4
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JK","2015–2017, 2019–2020, 2022",6
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","JH","2014–2016, 2021, 2023",5
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","ML","2014",1
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","MZ","2021–2023",3
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","OD","2017–2023",7
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","PY","2011–2015, 2017–2022",11
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","RJ","2014",1
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","SK","2019, 2023",2
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","TR","2007, 2014, 2020–2023",6
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","UK","2014–2023",10
+"Farm sensitivity, excluding DNH_DD: El Niño-developing vs other years",651,"uncorrelated","us > diag","farming-sector suicides (non-reporting)","WB","2012–2023",12
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","June-September rainfall departure","AR","1999",1
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","BR","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","CG","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","JH","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","MP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","June-September rainfall departure","PY","2011–2012",2
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","June-September rainfall departure","TN","2011–2012",2
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","UP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): June-September rainfall departure",577,"intercept only","int","foodgrain deviation","UK","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","BR","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","CG","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","JH","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","MP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","UP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): July-September ONI",582,"intercept only","int","foodgrain deviation","UK","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","BR","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","CG","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","JH","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","MP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","UP","1997–1999",3
+"Foodgrain deviation (Gaussian LMM): El Niño-developing year",582,"intercept only","int","foodgrain deviation","UK","1997–1999",3
+"Mediation (a-path, b-path and total models, random intercepts): heatwave days",816,"intercept only","int","–","–","–",0
+"Mediation (a-path, b-path and total models, random intercepts): March-June temperature anomaly",816,"intercept only","int","–","–","–",0
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","AN","2001–2024",24
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","CH","2014",1
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","GJ","2015",1
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","JK","2003, 2024",2
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","LD","2001–2024",24
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","PY","2011–2012",2
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","RJ","2002",1
+"Mediation (a-path, b-path and total models, random intercepts): monsoon onset anomaly",756,"intercept only","int","monsoon onset anomaly","TN","2001–2003, 2011–2012",5
+"Rule: rainfall-based variables (June-September rainfall departure, SPI-3 (September), monsoon onset anomaly, and their previous-year values) were set missing for Andaman and Nicobar (already missing in the source) and Lakshadweep (whose gridded rainfall is a Kerala-coast proxy); 282 Lakshadweep unit-year values were blanked across the heat and farmer data",–,–,–,–,–,–,–
+"Validation (Table IV): Models A-C scored on identical rows, 510 unit-years (leave-one-El-Niño-out) and 340 (rolling origin); first-year rows lack the lagged outcome (Supplementary Table S3)",–,–,–,–,–,–,–

@@ -1,0 +1,20 @@
+3.1.5 State/UT wise Cases and Deaths due to Dengue in India, 2018-2022
+2022 (till Dec-
+S. 2018 2019 2020 2021
+State / UT Prov.)
+No.
+Cases Deaths Cases Deaths Cases Deaths Cases Deaths Cases Deaths
+India 124493 258 205243 193 44585 66 193245 346 166718 243
+1 Andhra Pradesh 4011 0 5286 0 925 0 4760 0 6391 0
+12 Kerala 4083 32 4652 16 4399 5 3251 27 4432 29
+21 Rajasthan 9587 10 13706 17 2023 7 20749 96 13491 10
+24 Telangana 4592 2 13331 7 2173 0 349 0 8972 0
+28 West Bengal 23301 86 47928 27 5166 10 8264 7 1753 3
+29 Andaman & Nicobar 49 0 168 0 98 0 175 0 1080 0
+Islands
+31 Dadra & Nagar Haveli 493 0 1491 2
+319 0 826 0 913 0
+Daman & Diu 163 0 625 2
+33 Jammu & Kashmir 214 0 439 0 53 0 1709 4 8269 18
+34 Ladakh 0 0 0 0 0 0 0 0 0 0
+Source: National Center for Vector Borne Diseases Control, Dte.HS, Ministry of Health & Family Welfare

@@ -1,0 +1,15 @@
+3.1.5 State/UT wise Cases and Deaths Due to Dengue in India, 2013 - 2017(P)
+(ICD - 10 Code A90 - A91)
+S. State/UT 2013 2014 2015 2016 2017(P)
+No. Cases Deaths Cases Deaths Cases Deaths Cases Deaths Cases Deaths
+1 Andhra Pradesh 910 1 1262 5 3159 2 3417 2 4844 0
+24 Tamil Nadu 6122 0 2804 3 4535 12 2531 5 23294 65
+25 Telangana* - - 704 1 1831 2 4037 4 3083 -
+32 D & N Haveli 190 0 641 1 1154 0 4161 2 1996 0
+33 Daman & Diu 61 0 46 0 165 0 89 0 59 0
+34 Delhi 5574 6 995 3 15867 60 4431 10 9232 9
+35 Lakshadweep 0 0 0 0 0 0 0 0 0 0
+All India Total 75808 193 40571 137 99913 220 129166 245 157996 253
+Note:
+(P) Provisional
+** Telangana State was formed in 2014

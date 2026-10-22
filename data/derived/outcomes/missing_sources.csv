@@ -1,0 +1,6 @@
+outcome,source_id,reason
+farmer_suicides,ncrb_1997,state-wise profession table for 1997 not available on the NCRB website with a text layer: the ADSI chapter-2 PDF (suicides-1997.pdf) is a scan and the table-content page lists chapter-1 tables only
+farmer_suicides,ncrb_1998,state-wise profession table for 1998 not available on the NCRB website with a text layer: the ADSI chapter-2 PDF (suicides-1998.pdf) is a scan and the table-content page lists chapter-1 tables only
+farmer_suicides,ncrb_1999,state-wise profession table for 1999 not available on the NCRB website with a text layer: the ADSI chapter-2 PDF (suicides-1999.pdf) is a scan and the table-content page lists chapter-1 tables only
+farmer_suicides,ncrb_2000,state-wise profession table for 2000 not available on the NCRB website with a text layer: the ADSI chapter-2 PDF (suicides-2000.pdf) is a scan and the table-content page lists chapter-1 tables only
+foodgrain,foodgrain_rbi2023,foodgrain_rbi2023: data/raw/outcomes/foodgrain_rbi2023/64T_15112023FA45A663E56549F98199708AE35A02F0.PDF not present (RBI serves the file behind a human-verification page; place it manually)

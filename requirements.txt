@@ -1,0 +1,11 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+geopandas>=1.0
+shapely>=2.0
+pyogrio>=0.9
+requests>=2.32
+matplotlib>=3.9
+pdfplumber>=0.11
+pillow>=10.0
+pytest>=8.0

@@ -1,0 +1,817 @@
+unit_id,unit_name,year,heat_deaths,population,provisional_any,sources
+AN,Andaman and Nicobar Islands,2001,0.0,356152.0,False,heat_deaths:ncrb_2001
+AN,Andaman and Nicobar Islands,2002,0.0,358594.9,False,heat_deaths:ncrb_2002
+AN,Andaman and Nicobar Islands,2003,0.0,361037.8,False,heat_deaths:ncrb_2003
+AN,Andaman and Nicobar Islands,2004,0.0,363480.7,False,heat_deaths:ncrb_2004
+AN,Andaman and Nicobar Islands,2005,0.0,365923.6,False,heat_deaths:ncrb_2005
+AN,Andaman and Nicobar Islands,2006,0.0,368366.5,False,heat_deaths:ncrb_2006
+AN,Andaman and Nicobar Islands,2007,0.0,370809.4,False,heat_deaths:ncrb_2007
+AN,Andaman and Nicobar Islands,2008,0.0,373252.3,False,heat_deaths:ncrb_2008
+AN,Andaman and Nicobar Islands,2009,0.0,375695.2,False,heat_deaths:ncrb_2009
+AN,Andaman and Nicobar Islands,2010,0.0,378138.1,False,heat_deaths:ncrb_2010
+AN,Andaman and Nicobar Islands,2011,0.0,380581.0,False,heat_deaths:ncrb_2011
+AN,Andaman and Nicobar Islands,2012,0.0,383000.0,False,heat_deaths:ncrb_2012
+AN,Andaman and Nicobar Islands,2013,0.0,385000.0,False,heat_deaths:ncrb_2013
+AN,Andaman and Nicobar Islands,2014,0.0,387000.0,False,heat_deaths:ncrb_2014
+AN,Andaman and Nicobar Islands,2015,0.0,390000.0,False,heat_deaths:ncrb_2015
+AN,Andaman and Nicobar Islands,2016,0.0,392000.0,False,heat_deaths:ncrb_2016
+AN,Andaman and Nicobar Islands,2017,0.0,394000.0,False,heat_deaths:ncrb_2017
+AN,Andaman and Nicobar Islands,2018,0.0,395000.0,False,heat_deaths:ncrb_2018
+AN,Andaman and Nicobar Islands,2019,0.0,397000.0,False,heat_deaths:ncrb_2019
+AN,Andaman and Nicobar Islands,2020,0.0,399000.0,False,heat_deaths:ncrb_2020
+AN,Andaman and Nicobar Islands,2021,0.0,400000.0,False,heat_deaths:ncrb_2021
+AN,Andaman and Nicobar Islands,2022,0.0,402000.0,False,heat_deaths:ncrb_2022
+AN,Andaman and Nicobar Islands,2023,0.0,403000.0,False,heat_deaths:ncrb_2023
+AN,Andaman and Nicobar Islands,2024,0.0,404000.0,False,heat_deaths:ncrb_2024
+AP_TG,Andhra Pradesh and Telangana,2001,46.0,76210007.0,False,heat_deaths:ncrb_2001
+AP_TG,Andhra Pradesh and Telangana,2002,80.0,77047084.0,False,heat_deaths:ncrb_2002
+AP_TG,Andhra Pradesh and Telangana,2003,100.0,77884161.0,False,heat_deaths:ncrb_2003
+AP_TG,Andhra Pradesh and Telangana,2004,52.0,78721238.0,False,heat_deaths:ncrb_2004
+AP_TG,Andhra Pradesh and Telangana,2005,105.0,79558315.0,False,heat_deaths:ncrb_2005
+AP_TG,Andhra Pradesh and Telangana,2006,125.0,80395392.0,False,heat_deaths:ncrb_2006
+AP_TG,Andhra Pradesh and Telangana,2007,128.0,81232469.0,False,heat_deaths:ncrb_2007
+AP_TG,Andhra Pradesh and Telangana,2008,124.0,82069546.0,False,heat_deaths:ncrb_2008
+AP_TG,Andhra Pradesh and Telangana,2009,262.0,82906623.0,False,heat_deaths:ncrb_2009
+AP_TG,Andhra Pradesh and Telangana,2010,197.0,83743700.0,False,heat_deaths:ncrb_2010
+AP_TG,Andhra Pradesh and Telangana,2011,91.0,84580777.0,False,heat_deaths:ncrb_2011
+AP_TG,Andhra Pradesh and Telangana,2012,221.0,85231000.0,False,heat_deaths:ncrb_2012
+AP_TG,Andhra Pradesh and Telangana,2013,418.0,85882000.0,False,heat_deaths:ncrb_2013
+AP_TG,Andhra Pradesh and Telangana,2014,372.0,86532000.0,False,heat_deaths:ncrb_2014
+AP_TG,Andhra Pradesh and Telangana,2015,836.0,87182000.0,False,heat_deaths:ncrb_2015
+AP_TG,Andhra Pradesh and Telangana,2016,528.0,87833000.0,False,heat_deaths:ncrb_2016
+AP_TG,Andhra Pradesh and Telangana,2017,411.0,88369000.0,False,heat_deaths:ncrb_2017
+AP_TG,Andhra Pradesh and Telangana,2018,204.0,88905000.0,False,heat_deaths:ncrb_2018
+AP_TG,Andhra Pradesh and Telangana,2019,284.0,89441000.0,False,heat_deaths:ncrb_2019
+AP_TG,Andhra Pradesh and Telangana,2020,148.0,89977000.0,False,heat_deaths:ncrb_2020
+AP_TG,Andhra Pradesh and Telangana,2021,65.0,90512000.0,False,heat_deaths:ncrb_2021
+AP_TG,Andhra Pradesh and Telangana,2022,109.0,90879000.0,False,heat_deaths:ncrb_2022
+AP_TG,Andhra Pradesh and Telangana,2023,138.0,91246000.0,False,heat_deaths:ncrb_2023
+AP_TG,Andhra Pradesh and Telangana,2024,166.0,91612000.0,False,heat_deaths:ncrb_2024
+AR,Arunachal Pradesh,2001,0.0,1097968.0,False,heat_deaths:ncrb_2001
+AR,Arunachal Pradesh,2002,0.0,1126543.9,False,heat_deaths:ncrb_2002
+AR,Arunachal Pradesh,2003,1.0,1155119.8,False,heat_deaths:ncrb_2003
+AR,Arunachal Pradesh,2004,0.0,1183695.7,False,heat_deaths:ncrb_2004
+AR,Arunachal Pradesh,2005,0.0,1212271.6,False,heat_deaths:ncrb_2005
+AR,Arunachal Pradesh,2006,1.0,1240847.5,False,heat_deaths:ncrb_2006
+AR,Arunachal Pradesh,2007,4.0,1269423.4,False,heat_deaths:ncrb_2007
+AR,Arunachal Pradesh,2008,5.0,1297999.3,False,heat_deaths:ncrb_2008
+AR,Arunachal Pradesh,2009,5.0,1326575.2,False,heat_deaths:ncrb_2009
+AR,Arunachal Pradesh,2010,1.0,1355151.1,False,heat_deaths:ncrb_2010
+AR,Arunachal Pradesh,2011,0.0,1383727.0,False,heat_deaths:ncrb_2011
+AR,Arunachal Pradesh,2012,0.0,1399000.0,False,heat_deaths:ncrb_2012
+AR,Arunachal Pradesh,2013,0.0,1414000.0,False,heat_deaths:ncrb_2013
+AR,Arunachal Pradesh,2014,0.0,1429000.0,False,heat_deaths:ncrb_2014
+AR,Arunachal Pradesh,2015,0.0,1444000.0,False,heat_deaths:ncrb_2015
+AR,Arunachal Pradesh,2016,0.0,1459000.0,False,heat_deaths:ncrb_2016
+AR,Arunachal Pradesh,2017,0.0,1474000.0,False,heat_deaths:ncrb_2017
+AR,Arunachal Pradesh,2018,0.0,1489000.0,False,heat_deaths:ncrb_2018
+AR,Arunachal Pradesh,2019,0.0,1504000.0,False,heat_deaths:ncrb_2019
+AR,Arunachal Pradesh,2020,0.0,1519000.0,False,heat_deaths:ncrb_2020
+AR,Arunachal Pradesh,2021,0.0,1533000.0,False,heat_deaths:ncrb_2021
+AR,Arunachal Pradesh,2022,0.0,1548000.0,False,heat_deaths:ncrb_2022
+AR,Arunachal Pradesh,2023,0.0,1562000.0,False,heat_deaths:ncrb_2023
+AR,Arunachal Pradesh,2024,0.0,1576000.0,False,heat_deaths:ncrb_2024
+AS,Assam,2001,7.0,26655528.0,False,heat_deaths:ncrb_2001
+AS,Assam,2002,2.0,27110532.8,False,heat_deaths:ncrb_2002
+AS,Assam,2003,4.0,27565537.6,False,heat_deaths:ncrb_2003
+AS,Assam,2004,16.0,28020542.4,False,heat_deaths:ncrb_2004
+AS,Assam,2005,13.0,28475547.2,False,heat_deaths:ncrb_2005
+AS,Assam,2006,7.0,28930552.0,False,heat_deaths:ncrb_2006
+AS,Assam,2007,7.0,29385556.8,False,heat_deaths:ncrb_2007
+AS,Assam,2008,8.0,29840561.6,False,heat_deaths:ncrb_2008
+AS,Assam,2009,0.0,30295566.4,False,heat_deaths:ncrb_2009
+AS,Assam,2010,1.0,30750571.2,False,heat_deaths:ncrb_2010
+AS,Assam,2011,1.0,31205576.0,False,heat_deaths:ncrb_2011
+AS,Assam,2012,1.0,31598000.0,False,heat_deaths:ncrb_2012
+AS,Assam,2013,5.0,31991000.0,False,heat_deaths:ncrb_2013
+AS,Assam,2014,0.0,32383000.0,False,heat_deaths:ncrb_2014
+AS,Assam,2015,0.0,32776000.0,False,heat_deaths:ncrb_2015
+AS,Assam,2016,6.0,33168000.0,False,heat_deaths:ncrb_2016
+AS,Assam,2017,0.0,33543000.0,False,heat_deaths:ncrb_2017
+AS,Assam,2018,0.0,33918000.0,False,heat_deaths:ncrb_2018
+AS,Assam,2019,3.0,34293000.0,False,heat_deaths:ncrb_2019
+AS,Assam,2020,0.0,34668000.0,False,heat_deaths:ncrb_2020
+AS,Assam,2021,0.0,35043000.0,False,heat_deaths:ncrb_2021
+AS,Assam,2022,1.0,35378000.0,False,heat_deaths:ncrb_2022
+AS,Assam,2023,1.0,35713000.0,False,heat_deaths:ncrb_2023
+AS,Assam,2024,4.0,36047000.0,False,heat_deaths:ncrb_2024
+BR,Bihar,2001,47.0,82998509.0,False,heat_deaths:ncrb_2001
+BR,Bihar,2002,22.0,85108603.3,False,heat_deaths:ncrb_2002
+BR,Bihar,2003,70.0,87218697.6,False,heat_deaths:ncrb_2003
+BR,Bihar,2004,32.0,89328791.9,False,heat_deaths:ncrb_2004
+BR,Bihar,2005,68.0,91438886.2,False,heat_deaths:ncrb_2005
+BR,Bihar,2006,52.0,93548980.5,False,heat_deaths:ncrb_2006
+BR,Bihar,2007,58.0,95659074.8,False,heat_deaths:ncrb_2007
+BR,Bihar,2008,28.0,97769169.1,False,heat_deaths:ncrb_2008
+BR,Bihar,2009,46.0,99879263.4,False,heat_deaths:ncrb_2009
+BR,Bihar,2010,95.0,101989357.7,False,heat_deaths:ncrb_2010
+BR,Bihar,2011,86.0,104099452.0,False,heat_deaths:ncrb_2011
+BR,Bihar,2012,166.0,106115000.0,False,heat_deaths:ncrb_2012
+BR,Bihar,2013,85.0,108130000.0,False,heat_deaths:ncrb_2013
+BR,Bihar,2014,131.0,110145000.0,False,heat_deaths:ncrb_2014
+BR,Bihar,2015,86.0,112161000.0,False,heat_deaths:ncrb_2015
+BR,Bihar,2016,85.0,114176000.0,False,heat_deaths:ncrb_2016
+BR,Bihar,2017,84.0,115957000.0,False,heat_deaths:ncrb_2017
+BR,Bihar,2018,64.0,117739000.0,False,heat_deaths:ncrb_2018
+BR,Bihar,2019,215.0,119520000.0,False,heat_deaths:ncrb_2019
+BR,Bihar,2020,53.0,121302000.0,False,heat_deaths:ncrb_2020
+BR,Bihar,2021,57.0,123083000.0,False,heat_deaths:ncrb_2021
+BR,Bihar,2022,78.0,124919000.0,False,heat_deaths:ncrb_2022
+BR,Bihar,2023,143.0,126756000.0,False,heat_deaths:ncrb_2023
+BR,Bihar,2024,422.0,128592000.0,False,heat_deaths:ncrb_2024
+CH,Chandigarh,2001,1.0,900635.0,False,heat_deaths:ncrb_2001
+CH,Chandigarh,2002,0.0,916116.5,False,heat_deaths:ncrb_2002
+CH,Chandigarh,2003,0.0,931598.0,False,heat_deaths:ncrb_2003
+CH,Chandigarh,2004,0.0,947079.5,False,heat_deaths:ncrb_2004
+CH,Chandigarh,2005,0.0,962561.0,False,heat_deaths:ncrb_2005
+CH,Chandigarh,2006,0.0,978042.5,False,heat_deaths:ncrb_2006
+CH,Chandigarh,2007,0.0,993524.0,False,heat_deaths:ncrb_2007
+CH,Chandigarh,2008,0.0,1009005.5,False,heat_deaths:ncrb_2008
+CH,Chandigarh,2009,0.0,1024487.0,False,heat_deaths:ncrb_2009
+CH,Chandigarh,2010,0.0,1039968.5,False,heat_deaths:ncrb_2010
+CH,Chandigarh,2011,0.0,1055450.0,False,heat_deaths:ncrb_2011
+CH,Chandigarh,2012,0.0,1072000.0,False,heat_deaths:ncrb_2012
+CH,Chandigarh,2013,0.0,1088000.0,False,heat_deaths:ncrb_2013
+CH,Chandigarh,2014,0.0,1104000.0,False,heat_deaths:ncrb_2014
+CH,Chandigarh,2015,0.0,1120000.0,False,heat_deaths:ncrb_2015
+CH,Chandigarh,2016,0.0,1136000.0,False,heat_deaths:ncrb_2016
+CH,Chandigarh,2017,0.0,1151000.0,False,heat_deaths:ncrb_2017
+CH,Chandigarh,2018,0.0,1165000.0,False,heat_deaths:ncrb_2018
+CH,Chandigarh,2019,0.0,1179000.0,False,heat_deaths:ncrb_2019
+CH,Chandigarh,2020,0.0,1193000.0,False,heat_deaths:ncrb_2020
+CH,Chandigarh,2021,0.0,1208000.0,False,heat_deaths:ncrb_2021
+CH,Chandigarh,2022,0.0,1219000.0,False,heat_deaths:ncrb_2022
+CH,Chandigarh,2023,0.0,1231000.0,False,heat_deaths:ncrb_2023
+CH,Chandigarh,2024,0.0,1243000.0,False,heat_deaths:ncrb_2024
+CG,Chhattisgarh,2001,5.0,20833803.0,False,heat_deaths:ncrb_2001
+CG,Chhattisgarh,2002,20.0,21304942.5,False,heat_deaths:ncrb_2002
+CG,Chhattisgarh,2003,22.0,21776082.0,False,heat_deaths:ncrb_2003
+CG,Chhattisgarh,2004,9.0,22247221.5,False,heat_deaths:ncrb_2004
+CG,Chhattisgarh,2005,14.0,22718361.0,False,heat_deaths:ncrb_2005
+CG,Chhattisgarh,2006,4.0,23189500.5,False,heat_deaths:ncrb_2006
+CG,Chhattisgarh,2007,15.0,23660640.0,False,heat_deaths:ncrb_2007
+CG,Chhattisgarh,2008,7.0,24131779.5,False,heat_deaths:ncrb_2008
+CG,Chhattisgarh,2009,6.0,24602919.0,False,heat_deaths:ncrb_2009
+CG,Chhattisgarh,2010,10.0,25074058.5,False,heat_deaths:ncrb_2010
+CG,Chhattisgarh,2011,3.0,25545198.0,False,heat_deaths:ncrb_2011
+CG,Chhattisgarh,2012,10.0,25950000.0,False,heat_deaths:ncrb_2012
+CG,Chhattisgarh,2013,3.0,26356000.0,False,heat_deaths:ncrb_2013
+CG,Chhattisgarh,2014,4.0,26761000.0,False,heat_deaths:ncrb_2014
+CG,Chhattisgarh,2015,2.0,27166000.0,False,heat_deaths:ncrb_2015
+CG,Chhattisgarh,2016,9.0,27571000.0,False,heat_deaths:ncrb_2016
+CG,Chhattisgarh,2017,11.0,27956000.0,False,heat_deaths:ncrb_2017
+CG,Chhattisgarh,2018,1.0,28340000.0,False,heat_deaths:ncrb_2018
+CG,Chhattisgarh,2019,16.0,28724000.0,False,heat_deaths:ncrb_2019
+CG,Chhattisgarh,2020,3.0,29109000.0,False,heat_deaths:ncrb_2020
+CG,Chhattisgarh,2021,2.0,29493000.0,False,heat_deaths:ncrb_2021
+CG,Chhattisgarh,2022,11.0,29836000.0,False,heat_deaths:ncrb_2022
+CG,Chhattisgarh,2023,13.0,30180000.0,False,heat_deaths:ncrb_2023
+CG,Chhattisgarh,2024,40.0,30524000.0,False,heat_deaths:ncrb_2024
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2001,0.0,378694.0,False,heat_deaths:ncrb_2001
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2002,0.0,399520.2,False,heat_deaths:ncrb_2002
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2003,0.0,420346.4,False,heat_deaths:ncrb_2003
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2004,0.0,441172.6,False,heat_deaths:ncrb_2004
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2005,0.0,461998.8,False,heat_deaths:ncrb_2005
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2006,0.0,482825.0,False,heat_deaths:ncrb_2006
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2007,0.0,503651.2,False,heat_deaths:ncrb_2007
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2008,0.0,524477.4,False,heat_deaths:ncrb_2008
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2009,0.0,545303.6,False,heat_deaths:ncrb_2009
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2010,0.0,566129.8,False,heat_deaths:ncrb_2010
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2011,0.0,586956.0,False,heat_deaths:ncrb_2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2012,0.0,625000.0,False,heat_deaths:ncrb_2012
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2013,0.0,665000.0,False,heat_deaths:ncrb_2013
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2014,0.0,704000.0,False,heat_deaths:ncrb_2014
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2015,0.0,743000.0,False,heat_deaths:ncrb_2015
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2016,0.0,781000.0,False,heat_deaths:ncrb_2016
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2017,0.0,840000.0,False,heat_deaths:ncrb_2017
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2018,0.0,900000.0,False,heat_deaths:ncrb_2018
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2019,0.0,959000.0,False,heat_deaths:ncrb_2019
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2020,0.0,1018000.0,False,heat_deaths:ncrb_2020
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2021,0.0,1077000.0,False,heat_deaths:ncrb_2021
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2022,0.0,1170000.0,False,heat_deaths:ncrb_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2023,0.0,1263000.0,False,heat_deaths:ncrb_2023
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2024,0.0,1356000.0,False,heat_deaths:ncrb_2024
+DL,Delhi,2001,28.0,13850507.0,False,heat_deaths:ncrb_2001
+DL,Delhi,2002,45.0,14144250.4,False,heat_deaths:ncrb_2002
+DL,Delhi,2003,18.0,14437993.8,False,heat_deaths:ncrb_2003
+DL,Delhi,2004,20.0,14731737.2,False,heat_deaths:ncrb_2004
+DL,Delhi,2005,19.0,15025480.6,False,heat_deaths:ncrb_2005
+DL,Delhi,2006,14.0,15319224.0,False,heat_deaths:ncrb_2006
+DL,Delhi,2007,26.0,15612967.4,False,heat_deaths:ncrb_2007
+DL,Delhi,2008,7.0,15906710.8,False,heat_deaths:ncrb_2008
+DL,Delhi,2009,40.0,16200454.2,False,heat_deaths:ncrb_2009
+DL,Delhi,2010,41.0,16494197.6,False,heat_deaths:ncrb_2010
+DL,Delhi,2011,6.0,16787941.0,False,heat_deaths:ncrb_2011
+DL,Delhi,2012,17.0,17166000.0,False,heat_deaths:ncrb_2012
+DL,Delhi,2013,2.0,17544000.0,False,heat_deaths:ncrb_2013
+DL,Delhi,2014,9.0,17921000.0,False,heat_deaths:ncrb_2014
+DL,Delhi,2015,0.0,18299000.0,False,heat_deaths:ncrb_2015
+DL,Delhi,2016,1.0,18677000.0,False,heat_deaths:ncrb_2016
+DL,Delhi,2017,0.0,19056000.0,False,heat_deaths:ncrb_2017
+DL,Delhi,2018,0.0,19435000.0,False,heat_deaths:ncrb_2018
+DL,Delhi,2019,0.0,19814000.0,False,heat_deaths:ncrb_2019
+DL,Delhi,2020,0.0,20193000.0,False,heat_deaths:ncrb_2020
+DL,Delhi,2021,0.0,20571000.0,False,heat_deaths:ncrb_2021
+DL,Delhi,2022,1.0,20965000.0,False,heat_deaths:ncrb_2022
+DL,Delhi,2023,0.0,21359000.0,False,heat_deaths:ncrb_2023
+DL,Delhi,2024,1.0,21752000.0,False,heat_deaths:ncrb_2024
+GA,Goa,2001,6.0,1347668.0,False,heat_deaths:ncrb_2001
+GA,Goa,2002,0.0,1358755.7,False,heat_deaths:ncrb_2002
+GA,Goa,2003,0.0,1369843.4,False,heat_deaths:ncrb_2003
+GA,Goa,2004,0.0,1380931.1,False,heat_deaths:ncrb_2004
+GA,Goa,2005,0.0,1392018.8,False,heat_deaths:ncrb_2005
+GA,Goa,2006,0.0,1403106.5,False,heat_deaths:ncrb_2006
+GA,Goa,2007,0.0,1414194.2,False,heat_deaths:ncrb_2007
+GA,Goa,2008,0.0,1425281.9,False,heat_deaths:ncrb_2008
+GA,Goa,2009,0.0,1436369.6,False,heat_deaths:ncrb_2009
+GA,Goa,2010,0.0,1447457.3,False,heat_deaths:ncrb_2010
+GA,Goa,2011,0.0,1458545.0,False,heat_deaths:ncrb_2011
+GA,Goa,2012,0.0,1469000.0,False,heat_deaths:ncrb_2012
+GA,Goa,2013,0.0,1480000.0,False,heat_deaths:ncrb_2013
+GA,Goa,2014,0.0,1491000.0,False,heat_deaths:ncrb_2014
+GA,Goa,2015,0.0,1501000.0,False,heat_deaths:ncrb_2015
+GA,Goa,2016,0.0,1512000.0,False,heat_deaths:ncrb_2016
+GA,Goa,2017,0.0,1521000.0,False,heat_deaths:ncrb_2017
+GA,Goa,2018,0.0,1531000.0,False,heat_deaths:ncrb_2018
+GA,Goa,2019,0.0,1540000.0,False,heat_deaths:ncrb_2019
+GA,Goa,2020,0.0,1549000.0,False,heat_deaths:ncrb_2020
+GA,Goa,2021,0.0,1559000.0,False,heat_deaths:ncrb_2021
+GA,Goa,2022,0.0,1567000.0,False,heat_deaths:ncrb_2022
+GA,Goa,2023,0.0,1575000.0,False,heat_deaths:ncrb_2023
+GA,Goa,2024,0.0,1583000.0,False,heat_deaths:ncrb_2024
+GJ,Gujarat,2001,24.0,50671017.0,False,heat_deaths:ncrb_2001
+GJ,Gujarat,2002,47.0,51647884.5,False,heat_deaths:ncrb_2002
+GJ,Gujarat,2003,30.0,52624752.0,False,heat_deaths:ncrb_2003
+GJ,Gujarat,2004,12.0,53601619.5,False,heat_deaths:ncrb_2004
+GJ,Gujarat,2005,13.0,54578487.0,False,heat_deaths:ncrb_2005
+GJ,Gujarat,2006,7.0,55555354.5,False,heat_deaths:ncrb_2006
+GJ,Gujarat,2007,16.0,56532222.0,False,heat_deaths:ncrb_2007
+GJ,Gujarat,2008,6.0,57509089.5,False,heat_deaths:ncrb_2008
+GJ,Gujarat,2009,9.0,58485957.0,False,heat_deaths:ncrb_2009
+GJ,Gujarat,2010,58.0,59462824.5,False,heat_deaths:ncrb_2010
+GJ,Gujarat,2011,15.0,60439692.0,False,heat_deaths:ncrb_2011
+GJ,Gujarat,2012,17.0,61383000.0,False,heat_deaths:ncrb_2012
+GJ,Gujarat,2013,26.0,62327000.0,False,heat_deaths:ncrb_2013
+GJ,Gujarat,2014,45.0,63271000.0,False,heat_deaths:ncrb_2014
+GJ,Gujarat,2015,52.0,64214000.0,False,heat_deaths:ncrb_2015
+GJ,Gujarat,2016,32.0,65158000.0,False,heat_deaths:ncrb_2016
+GJ,Gujarat,2017,25.0,66084000.0,False,heat_deaths:ncrb_2017
+GJ,Gujarat,2018,31.0,67010000.0,False,heat_deaths:ncrb_2018
+GJ,Gujarat,2019,27.0,67936000.0,False,heat_deaths:ncrb_2019
+GJ,Gujarat,2020,12.0,68862000.0,False,heat_deaths:ncrb_2020
+GJ,Gujarat,2021,8.0,69788000.0,False,heat_deaths:ncrb_2021
+GJ,Gujarat,2022,5.0,70648000.0,False,heat_deaths:ncrb_2022
+GJ,Gujarat,2023,7.0,71507000.0,False,heat_deaths:ncrb_2023
+GJ,Gujarat,2024,15.0,72367000.0,False,heat_deaths:ncrb_2024
+HR,Haryana,2001,1.0,21144564.0,False,heat_deaths:ncrb_2001
+HR,Haryana,2002,17.0,21565253.8,False,heat_deaths:ncrb_2002
+HR,Haryana,2003,2.0,21985943.6,False,heat_deaths:ncrb_2003
+HR,Haryana,2004,4.0,22406633.4,False,heat_deaths:ncrb_2004
+HR,Haryana,2005,19.0,22827323.2,False,heat_deaths:ncrb_2005
+HR,Haryana,2006,13.0,23248013.0,False,heat_deaths:ncrb_2006
+HR,Haryana,2007,75.0,23668702.8,False,heat_deaths:ncrb_2007
+HR,Haryana,2008,31.0,24089392.6,False,heat_deaths:ncrb_2008
+HR,Haryana,2009,34.0,24510082.4,False,heat_deaths:ncrb_2009
+HR,Haryana,2010,60.0,24930772.2,False,heat_deaths:ncrb_2010
+HR,Haryana,2011,30.0,25351462.0,False,heat_deaths:ncrb_2011
+HR,Haryana,2012,95.0,25772000.0,False,heat_deaths:ncrb_2012
+HR,Haryana,2013,82.0,26193000.0,False,heat_deaths:ncrb_2013
+HR,Haryana,2014,79.0,26614000.0,False,heat_deaths:ncrb_2014
+HR,Haryana,2015,34.0,27034000.0,False,heat_deaths:ncrb_2015
+HR,Haryana,2016,76.0,27455000.0,False,heat_deaths:ncrb_2016
+HR,Haryana,2017,24.0,27861000.0,False,heat_deaths:ncrb_2017
+HR,Haryana,2018,56.0,28266000.0,False,heat_deaths:ncrb_2018
+HR,Haryana,2019,46.0,28672000.0,False,heat_deaths:ncrb_2019
+HR,Haryana,2020,23.0,29077000.0,False,heat_deaths:ncrb_2020
+HR,Haryana,2021,14.0,29483000.0,False,heat_deaths:ncrb_2021
+HR,Haryana,2022,27.0,29846000.0,False,heat_deaths:ncrb_2022
+HR,Haryana,2023,71.0,30209000.0,False,heat_deaths:ncrb_2023
+HR,Haryana,2024,131.0,30573000.0,False,heat_deaths:ncrb_2024
+HP,Himachal Pradesh,2001,2.0,6077900.0,False,heat_deaths:ncrb_2001
+HP,Himachal Pradesh,2002,0.0,6156570.2,False,heat_deaths:ncrb_2002
+HP,Himachal Pradesh,2003,8.0,6235240.4,False,heat_deaths:ncrb_2003
+HP,Himachal Pradesh,2004,0.0,6313910.6,False,heat_deaths:ncrb_2004
+HP,Himachal Pradesh,2005,3.0,6392580.8,False,heat_deaths:ncrb_2005
+HP,Himachal Pradesh,2006,1.0,6471251.0,False,heat_deaths:ncrb_2006
+HP,Himachal Pradesh,2007,0.0,6549921.2,False,heat_deaths:ncrb_2007
+HP,Himachal Pradesh,2008,0.0,6628591.4,False,heat_deaths:ncrb_2008
+HP,Himachal Pradesh,2009,1.0,6707261.6,False,heat_deaths:ncrb_2009
+HP,Himachal Pradesh,2010,0.0,6785931.8,False,heat_deaths:ncrb_2010
+HP,Himachal Pradesh,2011,1.0,6864602.0,False,heat_deaths:ncrb_2011
+HP,Himachal Pradesh,2012,2.0,6923000.0,False,heat_deaths:ncrb_2012
+HP,Himachal Pradesh,2013,0.0,6982000.0,False,heat_deaths:ncrb_2013
+HP,Himachal Pradesh,2014,1.0,7041000.0,False,heat_deaths:ncrb_2014
+HP,Himachal Pradesh,2015,0.0,7100000.0,False,heat_deaths:ncrb_2015
+HP,Himachal Pradesh,2016,0.0,7158000.0,False,heat_deaths:ncrb_2016
+HP,Himachal Pradesh,2017,0.0,7206000.0,False,heat_deaths:ncrb_2017
+HP,Himachal Pradesh,2018,0.0,7253000.0,False,heat_deaths:ncrb_2018
+HP,Himachal Pradesh,2019,0.0,7300000.0,False,heat_deaths:ncrb_2019
+HP,Himachal Pradesh,2020,0.0,7347000.0,False,heat_deaths:ncrb_2020
+HP,Himachal Pradesh,2021,1.0,7394000.0,False,heat_deaths:ncrb_2021
+HP,Himachal Pradesh,2022,0.0,7431000.0,False,heat_deaths:ncrb_2022
+HP,Himachal Pradesh,2023,0.0,7468000.0,False,heat_deaths:ncrb_2023
+HP,Himachal Pradesh,2024,0.0,7505000.0,False,heat_deaths:ncrb_2024
+JK,Jammu and Kashmir (incl. Ladakh),2001,0.0,10143700.0,False,heat_deaths:ncrb_2001
+JK,Jammu and Kashmir (incl. Ladakh),2002,0.0,10383460.2,False,heat_deaths:ncrb_2002
+JK,Jammu and Kashmir (incl. Ladakh),2003,3.0,10623220.4,False,heat_deaths:ncrb_2003
+JK,Jammu and Kashmir (incl. Ladakh),2004,2.0,10862980.6,False,heat_deaths:ncrb_2004
+JK,Jammu and Kashmir (incl. Ladakh),2005,2.0,11102740.8,False,heat_deaths:ncrb_2005
+JK,Jammu and Kashmir (incl. Ladakh),2006,2.0,11342501.0,False,heat_deaths:ncrb_2006
+JK,Jammu and Kashmir (incl. Ladakh),2007,1.0,11582261.2,False,heat_deaths:ncrb_2007
+JK,Jammu and Kashmir (incl. Ladakh),2008,0.0,11822021.4,False,heat_deaths:ncrb_2008
+JK,Jammu and Kashmir (incl. Ladakh),2009,0.0,12061781.6,False,heat_deaths:ncrb_2009
+JK,Jammu and Kashmir (incl. Ladakh),2010,6.0,12301541.8,False,heat_deaths:ncrb_2010
+JK,Jammu and Kashmir (incl. Ladakh),2011,1.0,12541302.0,False,heat_deaths:ncrb_2011
+JK,Jammu and Kashmir (incl. Ladakh),2012,0.0,12670000.0,False,heat_deaths:ncrb_2012
+JK,Jammu and Kashmir (incl. Ladakh),2013,3.0,12798000.0,False,heat_deaths:ncrb_2013
+JK,Jammu and Kashmir (incl. Ladakh),2014,0.0,12927000.0,False,heat_deaths:ncrb_2014
+JK,Jammu and Kashmir (incl. Ladakh),2015,1.0,13056000.0,False,heat_deaths:ncrb_2015
+JK,Jammu and Kashmir (incl. Ladakh),2016,1.0,13184000.0,False,heat_deaths:ncrb_2016
+JK,Jammu and Kashmir (incl. Ladakh),2017,0.0,13288000.0,False,heat_deaths:ncrb_2017
+JK,Jammu and Kashmir (incl. Ladakh),2018,0.0,13392000.0,False,heat_deaths:ncrb_2018
+JK,Jammu and Kashmir (incl. Ladakh),2019,0.0,13496000.0,False,heat_deaths:ncrb_2019
+JK,Jammu and Kashmir (incl. Ladakh),2020,0.0,13600000.0,False,heat_deaths:ncrb_2020
+JK,Jammu and Kashmir (incl. Ladakh),2021,0.0,13705000.0,False,heat_deaths:ncrb_2021
+JK,Jammu and Kashmir (incl. Ladakh),2022,0.0,13804000.0,False,heat_deaths:ncrb_2022
+JK,Jammu and Kashmir (incl. Ladakh),2023,0.0,13903000.0,False,heat_deaths:ncrb_2023
+JK,Jammu and Kashmir (incl. Ladakh),2024,1.0,14003000.0,False,heat_deaths:ncrb_2024
+JH,Jharkhand,2001,2.0,26945829.0,False,heat_deaths:ncrb_2001
+JH,Jharkhand,2002,6.0,27550059.5,False,heat_deaths:ncrb_2002
+JH,Jharkhand,2003,8.0,28154290.0,False,heat_deaths:ncrb_2003
+JH,Jharkhand,2004,19.0,28758520.5,False,heat_deaths:ncrb_2004
+JH,Jharkhand,2005,60.0,29362751.0,False,heat_deaths:ncrb_2005
+JH,Jharkhand,2006,37.0,29966981.5,False,heat_deaths:ncrb_2006
+JH,Jharkhand,2007,38.0,30571212.0,False,heat_deaths:ncrb_2007
+JH,Jharkhand,2008,48.0,31175442.5,False,heat_deaths:ncrb_2008
+JH,Jharkhand,2009,50.0,31779673.0,False,heat_deaths:ncrb_2009
+JH,Jharkhand,2010,49.0,32383903.5,False,heat_deaths:ncrb_2010
+JH,Jharkhand,2011,29.0,32988134.0,False,heat_deaths:ncrb_2011
+JH,Jharkhand,2012,74.0,33551000.0,False,heat_deaths:ncrb_2012
+JH,Jharkhand,2013,42.0,34113000.0,False,heat_deaths:ncrb_2013
+JH,Jharkhand,2014,50.0,34675000.0,False,heat_deaths:ncrb_2014
+JH,Jharkhand,2015,96.0,35238000.0,False,heat_deaths:ncrb_2015
+JH,Jharkhand,2016,45.0,35800000.0,False,heat_deaths:ncrb_2016
+JH,Jharkhand,2017,51.0,36334000.0,False,heat_deaths:ncrb_2017
+JH,Jharkhand,2018,42.0,36869000.0,False,heat_deaths:ncrb_2018
+JH,Jharkhand,2019,88.0,37403000.0,False,heat_deaths:ncrb_2019
+JH,Jharkhand,2020,23.0,37937000.0,False,heat_deaths:ncrb_2020
+JH,Jharkhand,2021,33.0,38471000.0,False,heat_deaths:ncrb_2021
+JH,Jharkhand,2022,47.0,38969000.0,False,heat_deaths:ncrb_2022
+JH,Jharkhand,2023,79.0,39466000.0,False,heat_deaths:ncrb_2023
+JH,Jharkhand,2024,157.0,39963000.0,False,heat_deaths:ncrb_2024
+KA,Karnataka,2001,2.0,52850562.0,False,heat_deaths:ncrb_2001
+KA,Karnataka,2002,4.0,53675035.5,False,heat_deaths:ncrb_2002
+KA,Karnataka,2003,6.0,54499509.0,False,heat_deaths:ncrb_2003
+KA,Karnataka,2004,7.0,55323982.5,False,heat_deaths:ncrb_2004
+KA,Karnataka,2005,15.0,56148456.0,False,heat_deaths:ncrb_2005
+KA,Karnataka,2006,5.0,56972929.5,False,heat_deaths:ncrb_2006
+KA,Karnataka,2007,1.0,57797403.0,False,heat_deaths:ncrb_2007
+KA,Karnataka,2008,2.0,58621876.5,False,heat_deaths:ncrb_2008
+KA,Karnataka,2009,9.0,59446350.0,False,heat_deaths:ncrb_2009
+KA,Karnataka,2010,15.0,60270823.5,False,heat_deaths:ncrb_2010
+KA,Karnataka,2011,21.0,61095297.0,False,heat_deaths:ncrb_2011
+KA,Karnataka,2012,2.0,61722000.0,False,heat_deaths:ncrb_2012
+KA,Karnataka,2013,6.0,62349000.0,False,heat_deaths:ncrb_2013
+KA,Karnataka,2014,2.0,62975000.0,False,heat_deaths:ncrb_2014
+KA,Karnataka,2015,0.0,63602000.0,False,heat_deaths:ncrb_2015
+KA,Karnataka,2016,17.0,64229000.0,False,heat_deaths:ncrb_2016
+KA,Karnataka,2017,0.0,64752000.0,False,heat_deaths:ncrb_2017
+KA,Karnataka,2018,0.0,65275000.0,False,heat_deaths:ncrb_2018
+KA,Karnataka,2019,4.0,65798000.0,False,heat_deaths:ncrb_2019
+KA,Karnataka,2020,1.0,66322000.0,False,heat_deaths:ncrb_2020
+KA,Karnataka,2021,0.0,66845000.0,False,heat_deaths:ncrb_2021
+KA,Karnataka,2022,2.0,67268000.0,False,heat_deaths:ncrb_2022
+KA,Karnataka,2023,0.0,67692000.0,False,heat_deaths:ncrb_2023
+KA,Karnataka,2024,4.0,68115000.0,False,heat_deaths:ncrb_2024
+KL,Kerala,2001,0.0,31841374.0,False,heat_deaths:ncrb_2001
+KL,Kerala,2002,0.0,31997842.7,False,heat_deaths:ncrb_2002
+KL,Kerala,2003,4.0,32154311.4,False,heat_deaths:ncrb_2003
+KL,Kerala,2004,1.0,32310780.1,False,heat_deaths:ncrb_2004
+KL,Kerala,2005,0.0,32467248.8,False,heat_deaths:ncrb_2005
+KL,Kerala,2006,0.0,32623717.5,False,heat_deaths:ncrb_2006
+KL,Kerala,2007,1.0,32780186.2,False,heat_deaths:ncrb_2007
+KL,Kerala,2008,0.0,32936654.9,False,heat_deaths:ncrb_2008
+KL,Kerala,2009,1.0,33093123.6,False,heat_deaths:ncrb_2009
+KL,Kerala,2010,2.0,33249592.3,False,heat_deaths:ncrb_2010
+KL,Kerala,2011,0.0,33406061.0,False,heat_deaths:ncrb_2011
+KL,Kerala,2012,0.0,33641000.0,False,heat_deaths:ncrb_2012
+KL,Kerala,2013,1.0,33875000.0,False,heat_deaths:ncrb_2013
+KL,Kerala,2014,0.0,34109000.0,False,heat_deaths:ncrb_2014
+KL,Kerala,2015,1.0,34344000.0,False,heat_deaths:ncrb_2015
+KL,Kerala,2016,4.0,34578000.0,False,heat_deaths:ncrb_2016
+KL,Kerala,2017,1.0,34761000.0,False,heat_deaths:ncrb_2017
+KL,Kerala,2018,1.0,34943000.0,False,heat_deaths:ncrb_2018
+KL,Kerala,2019,3.0,35125000.0,False,heat_deaths:ncrb_2019
+KL,Kerala,2020,0.0,35307000.0,False,heat_deaths:ncrb_2020
+KL,Kerala,2021,0.0,35489000.0,False,heat_deaths:ncrb_2021
+KL,Kerala,2022,0.0,35633000.0,False,heat_deaths:ncrb_2022
+KL,Kerala,2023,0.0,35776000.0,False,heat_deaths:ncrb_2023
+KL,Kerala,2024,2.0,35920000.0,False,heat_deaths:ncrb_2024
+LD,Lakshadweep,2001,0.0,60650.0,False,heat_deaths:ncrb_2001
+LD,Lakshadweep,2002,0.0,61032.3,False,heat_deaths:ncrb_2002
+LD,Lakshadweep,2003,0.0,61414.6,False,heat_deaths:ncrb_2003
+LD,Lakshadweep,2004,0.0,61796.9,False,heat_deaths:ncrb_2004
+LD,Lakshadweep,2005,0.0,62179.2,False,heat_deaths:ncrb_2005
+LD,Lakshadweep,2006,0.0,62561.5,False,heat_deaths:ncrb_2006
+LD,Lakshadweep,2007,0.0,62943.8,False,heat_deaths:ncrb_2007
+LD,Lakshadweep,2008,0.0,63326.1,False,heat_deaths:ncrb_2008
+LD,Lakshadweep,2009,0.0,63708.4,False,heat_deaths:ncrb_2009
+LD,Lakshadweep,2010,0.0,64090.7,False,heat_deaths:ncrb_2010
+LD,Lakshadweep,2011,0.0,64473.0,False,heat_deaths:ncrb_2011
+LD,Lakshadweep,2012,0.0,65000.0,False,heat_deaths:ncrb_2012
+LD,Lakshadweep,2013,0.0,65000.0,False,heat_deaths:ncrb_2013
+LD,Lakshadweep,2014,0.0,66000.0,False,heat_deaths:ncrb_2014
+LD,Lakshadweep,2015,0.0,66000.0,False,heat_deaths:ncrb_2015
+LD,Lakshadweep,2016,0.0,67000.0,False,heat_deaths:ncrb_2016
+LD,Lakshadweep,2017,0.0,67000.0,False,heat_deaths:ncrb_2017
+LD,Lakshadweep,2018,0.0,67000.0,False,heat_deaths:ncrb_2018
+LD,Lakshadweep,2019,0.0,68000.0,False,heat_deaths:ncrb_2019
+LD,Lakshadweep,2020,0.0,68000.0,False,heat_deaths:ncrb_2020
+LD,Lakshadweep,2021,0.0,68000.0,False,heat_deaths:ncrb_2021
+LD,Lakshadweep,2022,0.0,68000.0,False,heat_deaths:ncrb_2022
+LD,Lakshadweep,2023,0.0,69000.0,False,heat_deaths:ncrb_2023
+LD,Lakshadweep,2024,0.0,69000.0,False,heat_deaths:ncrb_2024
+MP,Madhya Pradesh,2001,8.0,60348023.0,False,heat_deaths:ncrb_2001
+MP,Madhya Pradesh,2002,32.0,61575901.6,False,heat_deaths:ncrb_2002
+MP,Madhya Pradesh,2003,39.0,62803780.2,False,heat_deaths:ncrb_2003
+MP,Madhya Pradesh,2004,158.0,64031658.8,False,heat_deaths:ncrb_2004
+MP,Madhya Pradesh,2005,24.0,65259537.4,False,heat_deaths:ncrb_2005
+MP,Madhya Pradesh,2006,45.0,66487416.0,False,heat_deaths:ncrb_2006
+MP,Madhya Pradesh,2007,41.0,67715294.6,False,heat_deaths:ncrb_2007
+MP,Madhya Pradesh,2008,11.0,68943173.2,False,heat_deaths:ncrb_2008
+MP,Madhya Pradesh,2009,20.0,70171051.8,False,heat_deaths:ncrb_2009
+MP,Madhya Pradesh,2010,46.0,71398930.4,False,heat_deaths:ncrb_2010
+MP,Madhya Pradesh,2011,24.0,72626809.0,False,heat_deaths:ncrb_2011
+MP,Madhya Pradesh,2012,35.0,73863000.0,False,heat_deaths:ncrb_2012
+MP,Madhya Pradesh,2013,12.0,75099000.0,False,heat_deaths:ncrb_2013
+MP,Madhya Pradesh,2014,33.0,76334000.0,False,heat_deaths:ncrb_2014
+MP,Madhya Pradesh,2015,24.0,77570000.0,False,heat_deaths:ncrb_2015
+MP,Madhya Pradesh,2016,26.0,78806000.0,False,heat_deaths:ncrb_2016
+MP,Madhya Pradesh,2017,34.0,79948000.0,False,heat_deaths:ncrb_2017
+MP,Madhya Pradesh,2018,15.0,81090000.0,False,heat_deaths:ncrb_2018
+MP,Madhya Pradesh,2019,33.0,82232000.0,False,heat_deaths:ncrb_2019
+MP,Madhya Pradesh,2020,7.0,83374000.0,False,heat_deaths:ncrb_2020
+MP,Madhya Pradesh,2021,2.0,84516000.0,False,heat_deaths:ncrb_2021
+MP,Madhya Pradesh,2022,27.0,85548000.0,False,heat_deaths:ncrb_2022
+MP,Madhya Pradesh,2023,15.0,86579000.0,False,heat_deaths:ncrb_2023
+MP,Madhya Pradesh,2024,38.0,87610000.0,False,heat_deaths:ncrb_2024
+MH,Maharashtra,2001,43.0,96878627.0,False,heat_deaths:ncrb_2001
+MH,Maharashtra,2002,50.0,98428197.6,False,heat_deaths:ncrb_2002
+MH,Maharashtra,2003,77.0,99977768.2,False,heat_deaths:ncrb_2003
+MH,Maharashtra,2004,62.0,101527338.8,False,heat_deaths:ncrb_2004
+MH,Maharashtra,2005,69.0,103076909.4,False,heat_deaths:ncrb_2005
+MH,Maharashtra,2006,33.0,104626480.0,False,heat_deaths:ncrb_2006
+MH,Maharashtra,2007,70.0,106176050.6,False,heat_deaths:ncrb_2007
+MH,Maharashtra,2008,30.0,107725621.2,False,heat_deaths:ncrb_2008
+MH,Maharashtra,2009,79.0,109275191.8,False,heat_deaths:ncrb_2009
+MH,Maharashtra,2010,137.0,110824762.4,False,heat_deaths:ncrb_2010
+MH,Maharashtra,2011,41.0,112374333.0,False,heat_deaths:ncrb_2011
+MH,Maharashtra,2012,59.0,113645000.0,False,heat_deaths:ncrb_2012
+MH,Maharashtra,2013,80.0,114915000.0,False,heat_deaths:ncrb_2013
+MH,Maharashtra,2014,58.0,116186000.0,False,heat_deaths:ncrb_2014
+MH,Maharashtra,2015,61.0,117456000.0,False,heat_deaths:ncrb_2015
+MH,Maharashtra,2016,96.0,118727000.0,False,heat_deaths:ncrb_2016
+MH,Maharashtra,2017,102.0,119869000.0,False,heat_deaths:ncrb_2017
+MH,Maharashtra,2018,128.0,121011000.0,False,heat_deaths:ncrb_2018
+MH,Maharashtra,2019,159.0,122153000.0,False,heat_deaths:ncrb_2019
+MH,Maharashtra,2020,56.0,123295000.0,False,heat_deaths:ncrb_2020
+MH,Maharashtra,2021,37.0,124437000.0,False,heat_deaths:ncrb_2021
+MH,Maharashtra,2022,90.0,125411000.0,False,heat_deaths:ncrb_2022
+MH,Maharashtra,2023,56.0,126385000.0,False,heat_deaths:ncrb_2023
+MH,Maharashtra,2024,83.0,127360000.0,False,heat_deaths:ncrb_2024
+MN,Manipur,2001,0.0,2293896.0,False,heat_deaths:ncrb_2001
+MN,Manipur,2002,0.0,2350085.8,False,heat_deaths:ncrb_2002
+MN,Manipur,2003,0.0,2406275.6,False,heat_deaths:ncrb_2003
+MN,Manipur,2004,0.0,2462465.4,False,heat_deaths:ncrb_2004
+MN,Manipur,2005,0.0,2518655.2,False,heat_deaths:ncrb_2005
+MN,Manipur,2006,0.0,2574845.0,False,heat_deaths:ncrb_2006
+MN,Manipur,2007,0.0,2631034.8,False,heat_deaths:ncrb_2007
+MN,Manipur,2008,0.0,2687224.6,False,heat_deaths:ncrb_2008
+MN,Manipur,2009,0.0,2743414.4,False,heat_deaths:ncrb_2009
+MN,Manipur,2010,0.0,2799604.2,False,heat_deaths:ncrb_2010
+MN,Manipur,2011,0.0,2855794.0,False,heat_deaths:ncrb_2011
+MN,Manipur,2012,0.0,2887000.0,False,heat_deaths:ncrb_2012
+MN,Manipur,2013,0.0,2918000.0,False,heat_deaths:ncrb_2013
+MN,Manipur,2014,0.0,2949000.0,False,heat_deaths:ncrb_2014
+MN,Manipur,2015,0.0,2980000.0,False,heat_deaths:ncrb_2015
+MN,Manipur,2016,0.0,3012000.0,False,heat_deaths:ncrb_2016
+MN,Manipur,2017,0.0,3042000.0,False,heat_deaths:ncrb_2017
+MN,Manipur,2018,0.0,3073000.0,False,heat_deaths:ncrb_2018
+MN,Manipur,2019,0.0,3103000.0,False,heat_deaths:ncrb_2019
+MN,Manipur,2020,0.0,3134000.0,False,heat_deaths:ncrb_2020
+MN,Manipur,2021,0.0,3165000.0,False,heat_deaths:ncrb_2021
+MN,Manipur,2022,0.0,3194000.0,False,heat_deaths:ncrb_2022
+MN,Manipur,2023,0.0,3223000.0,False,heat_deaths:ncrb_2023
+MN,Manipur,2024,0.0,3253000.0,False,heat_deaths:ncrb_2024
+ML,Meghalaya,2001,0.0,2318822.0,False,heat_deaths:ncrb_2001
+ML,Meghalaya,2002,0.0,2383628.7,False,heat_deaths:ncrb_2002
+ML,Meghalaya,2003,0.0,2448435.4,False,heat_deaths:ncrb_2003
+ML,Meghalaya,2004,1.0,2513242.1,False,heat_deaths:ncrb_2004
+ML,Meghalaya,2005,0.0,2578048.8,False,heat_deaths:ncrb_2005
+ML,Meghalaya,2006,0.0,2642855.5,False,heat_deaths:ncrb_2006
+ML,Meghalaya,2007,0.0,2707662.2,False,heat_deaths:ncrb_2007
+ML,Meghalaya,2008,0.0,2772468.9,False,heat_deaths:ncrb_2008
+ML,Meghalaya,2009,0.0,2837275.6,False,heat_deaths:ncrb_2009
+ML,Meghalaya,2010,0.0,2902082.3,False,heat_deaths:ncrb_2010
+ML,Meghalaya,2011,0.0,2966889.0,False,heat_deaths:ncrb_2011
+ML,Meghalaya,2012,0.0,2999000.0,False,heat_deaths:ncrb_2012
+ML,Meghalaya,2013,0.0,3032000.0,False,heat_deaths:ncrb_2013
+ML,Meghalaya,2014,2.0,3064000.0,False,heat_deaths:ncrb_2014
+ML,Meghalaya,2015,0.0,3096000.0,False,heat_deaths:ncrb_2015
+ML,Meghalaya,2016,0.0,3129000.0,False,heat_deaths:ncrb_2016
+ML,Meghalaya,2017,0.0,3161000.0,False,heat_deaths:ncrb_2017
+ML,Meghalaya,2018,4.0,3192000.0,False,heat_deaths:ncrb_2018
+ML,Meghalaya,2019,0.0,3224000.0,False,heat_deaths:ncrb_2019
+ML,Meghalaya,2020,0.0,3256000.0,False,heat_deaths:ncrb_2020
+ML,Meghalaya,2021,0.0,3288000.0,False,heat_deaths:ncrb_2021
+ML,Meghalaya,2022,0.0,3318000.0,False,heat_deaths:ncrb_2022
+ML,Meghalaya,2023,0.0,3349000.0,False,heat_deaths:ncrb_2023
+ML,Meghalaya,2024,0.0,3379000.0,False,heat_deaths:ncrb_2024
+MZ,Mizoram,2001,0.0,888573.0,False,heat_deaths:ncrb_2001
+MZ,Mizoram,2002,0.0,909436.3,False,heat_deaths:ncrb_2002
+MZ,Mizoram,2003,0.0,930299.6,False,heat_deaths:ncrb_2003
+MZ,Mizoram,2004,0.0,951162.9,False,heat_deaths:ncrb_2004
+MZ,Mizoram,2005,0.0,972026.2,False,heat_deaths:ncrb_2005
+MZ,Mizoram,2006,0.0,992889.5,False,heat_deaths:ncrb_2006
+MZ,Mizoram,2007,1.0,1013752.8,False,heat_deaths:ncrb_2007
+MZ,Mizoram,2008,0.0,1034616.1,False,heat_deaths:ncrb_2008
+MZ,Mizoram,2009,0.0,1055479.4,False,heat_deaths:ncrb_2009
+MZ,Mizoram,2010,0.0,1076342.7,False,heat_deaths:ncrb_2010
+MZ,Mizoram,2011,0.0,1097206.0,False,heat_deaths:ncrb_2011
+MZ,Mizoram,2012,4.0,1109000.0,False,heat_deaths:ncrb_2012
+MZ,Mizoram,2013,1.0,1121000.0,False,heat_deaths:ncrb_2013
+MZ,Mizoram,2014,0.0,1133000.0,False,heat_deaths:ncrb_2014
+MZ,Mizoram,2015,0.0,1145000.0,False,heat_deaths:ncrb_2015
+MZ,Mizoram,2016,0.0,1157000.0,False,heat_deaths:ncrb_2016
+MZ,Mizoram,2017,0.0,1169000.0,False,heat_deaths:ncrb_2017
+MZ,Mizoram,2018,0.0,1181000.0,False,heat_deaths:ncrb_2018
+MZ,Mizoram,2019,0.0,1192000.0,False,heat_deaths:ncrb_2019
+MZ,Mizoram,2020,0.0,1204000.0,False,heat_deaths:ncrb_2020
+MZ,Mizoram,2021,0.0,1216000.0,False,heat_deaths:ncrb_2021
+MZ,Mizoram,2022,0.0,1227000.0,False,heat_deaths:ncrb_2022
+MZ,Mizoram,2023,0.0,1238000.0,False,heat_deaths:ncrb_2023
+MZ,Mizoram,2024,0.0,1250000.0,False,heat_deaths:ncrb_2024
+NL,Nagaland,2001,0.0,1990036.0,False,heat_deaths:ncrb_2001
+NL,Nagaland,2002,0.0,1988882.6,False,heat_deaths:ncrb_2002
+NL,Nagaland,2003,1.0,1987729.2,False,heat_deaths:ncrb_2003
+NL,Nagaland,2004,0.0,1986575.8,False,heat_deaths:ncrb_2004
+NL,Nagaland,2005,0.0,1985422.4,False,heat_deaths:ncrb_2005
+NL,Nagaland,2006,0.0,1984269.0,False,heat_deaths:ncrb_2006
+NL,Nagaland,2007,0.0,1983115.6,False,heat_deaths:ncrb_2007
+NL,Nagaland,2008,0.0,1981962.2,False,heat_deaths:ncrb_2008
+NL,Nagaland,2009,0.0,1980808.8,False,heat_deaths:ncrb_2009
+NL,Nagaland,2010,0.0,1979655.4,False,heat_deaths:ncrb_2010
+NL,Nagaland,2011,0.0,1978502.0,False,heat_deaths:ncrb_2011
+NL,Nagaland,2012,0.0,2000000.0,False,heat_deaths:ncrb_2012
+NL,Nagaland,2013,0.0,2022000.0,False,heat_deaths:ncrb_2013
+NL,Nagaland,2014,0.0,2043000.0,False,heat_deaths:ncrb_2014
+NL,Nagaland,2015,0.0,2065000.0,False,heat_deaths:ncrb_2015
+NL,Nagaland,2016,0.0,2086000.0,False,heat_deaths:ncrb_2016
+NL,Nagaland,2017,0.0,2108000.0,False,heat_deaths:ncrb_2017
+NL,Nagaland,2018,0.0,2129000.0,False,heat_deaths:ncrb_2018
+NL,Nagaland,2019,0.0,2150000.0,False,heat_deaths:ncrb_2019
+NL,Nagaland,2020,0.0,2171000.0,False,heat_deaths:ncrb_2020
+NL,Nagaland,2021,0.0,2192000.0,False,heat_deaths:ncrb_2021
+NL,Nagaland,2022,0.0,2213000.0,False,heat_deaths:ncrb_2022
+NL,Nagaland,2023,0.0,2233000.0,False,heat_deaths:ncrb_2023
+NL,Nagaland,2024,0.0,2253000.0,False,heat_deaths:ncrb_2024
+OD,Odisha,2001,60.0,36804660.0,False,heat_deaths:ncrb_2001
+OD,Odisha,2002,77.0,37321615.8,False,heat_deaths:ncrb_2002
+OD,Odisha,2003,98.0,37838571.6,False,heat_deaths:ncrb_2003
+OD,Odisha,2004,76.0,38355527.4,False,heat_deaths:ncrb_2004
+OD,Odisha,2005,94.0,38872483.2,False,heat_deaths:ncrb_2005
+OD,Odisha,2006,51.0,39389439.0,False,heat_deaths:ncrb_2006
+OD,Odisha,2007,55.0,39906394.8,False,heat_deaths:ncrb_2007
+OD,Odisha,2008,69.0,40423350.6,False,heat_deaths:ncrb_2008
+OD,Odisha,2009,101.0,40940306.4,False,heat_deaths:ncrb_2009
+OD,Odisha,2010,130.0,41457262.2,False,heat_deaths:ncrb_2010
+OD,Odisha,2011,51.0,41974218.0,False,heat_deaths:ncrb_2011
+OD,Odisha,2012,124.0,42205000.0,False,heat_deaths:ncrb_2012
+OD,Odisha,2013,101.0,42436000.0,False,heat_deaths:ncrb_2013
+OD,Odisha,2014,78.0,42667000.0,False,heat_deaths:ncrb_2014
+OD,Odisha,2015,60.0,42897000.0,False,heat_deaths:ncrb_2015
+OD,Odisha,2016,81.0,43128000.0,False,heat_deaths:ncrb_2016
+OD,Odisha,2017,99.0,43309000.0,False,heat_deaths:ncrb_2017
+OD,Odisha,2018,40.0,43490000.0,False,heat_deaths:ncrb_2018
+OD,Odisha,2019,84.0,43671000.0,False,heat_deaths:ncrb_2019
+OD,Odisha,2020,13.0,43852000.0,False,heat_deaths:ncrb_2020
+OD,Odisha,2021,15.0,44033000.0,False,heat_deaths:ncrb_2021
+OD,Odisha,2022,38.0,44162000.0,False,heat_deaths:ncrb_2022
+OD,Odisha,2023,73.0,44291000.0,False,heat_deaths:ncrb_2023
+OD,Odisha,2024,139.0,44420000.0,False,heat_deaths:ncrb_2024
+PY,Puducherry,2001,0.0,974345.0,False,heat_deaths:ncrb_2001
+PY,Puducherry,2002,0.0,1001705.8,False,heat_deaths:ncrb_2002
+PY,Puducherry,2003,0.0,1029066.6,False,heat_deaths:ncrb_2003
+PY,Puducherry,2004,0.0,1056427.4,False,heat_deaths:ncrb_2004
+PY,Puducherry,2005,0.0,1083788.2,False,heat_deaths:ncrb_2005
+PY,Puducherry,2006,0.0,1111149.0,False,heat_deaths:ncrb_2006
+PY,Puducherry,2007,0.0,1138509.8,False,heat_deaths:ncrb_2007
+PY,Puducherry,2008,0.0,1165870.6,False,heat_deaths:ncrb_2008
+PY,Puducherry,2009,0.0,1193231.4,False,heat_deaths:ncrb_2009
+PY,Puducherry,2010,0.0,1220592.2,False,heat_deaths:ncrb_2010
+PY,Puducherry,2011,0.0,1247953.0,False,heat_deaths:ncrb_2011
+PY,Puducherry,2012,0.0,1279000.0,False,heat_deaths:ncrb_2012
+PY,Puducherry,2013,0.0,1310000.0,False,heat_deaths:ncrb_2013
+PY,Puducherry,2014,0.0,1340000.0,False,heat_deaths:ncrb_2014
+PY,Puducherry,2015,0.0,1371000.0,False,heat_deaths:ncrb_2015
+PY,Puducherry,2016,0.0,1402000.0,False,heat_deaths:ncrb_2016
+PY,Puducherry,2017,0.0,1436000.0,False,heat_deaths:ncrb_2017
+PY,Puducherry,2018,0.0,1470000.0,False,heat_deaths:ncrb_2018
+PY,Puducherry,2019,0.0,1504000.0,False,heat_deaths:ncrb_2019
+PY,Puducherry,2020,0.0,1537000.0,False,heat_deaths:ncrb_2020
+PY,Puducherry,2021,0.0,1571000.0,False,heat_deaths:ncrb_2021
+PY,Puducherry,2022,0.0,1608000.0,False,heat_deaths:ncrb_2022
+PY,Puducherry,2023,0.0,1646000.0,False,heat_deaths:ncrb_2023
+PY,Puducherry,2024,0.0,1683000.0,False,heat_deaths:ncrb_2024
+PB,Punjab,2001,55.0,24358999.0,False,heat_deaths:ncrb_2001
+PB,Punjab,2002,39.0,24697432.9,False,heat_deaths:ncrb_2002
+PB,Punjab,2003,38.0,25035866.8,False,heat_deaths:ncrb_2003
+PB,Punjab,2004,43.0,25374300.7,False,heat_deaths:ncrb_2004
+PB,Punjab,2005,87.0,25712734.6,False,heat_deaths:ncrb_2005
+PB,Punjab,2006,69.0,26051168.5,False,heat_deaths:ncrb_2006
+PB,Punjab,2007,129.0,26389602.4,False,heat_deaths:ncrb_2007
+PB,Punjab,2008,64.0,26728036.3,False,heat_deaths:ncrb_2008
+PB,Punjab,2009,150.0,27066470.2,False,heat_deaths:ncrb_2009
+PB,Punjab,2010,170.0,27404904.1,False,heat_deaths:ncrb_2010
+PB,Punjab,2011,176.0,27743338.0,False,heat_deaths:ncrb_2011
+PB,Punjab,2012,155.0,28023000.0,False,heat_deaths:ncrb_2012
+PB,Punjab,2013,144.0,28302000.0,False,heat_deaths:ncrb_2013
+PB,Punjab,2014,123.0,28581000.0,False,heat_deaths:ncrb_2014
+PB,Punjab,2015,99.0,28861000.0,False,heat_deaths:ncrb_2015
+PB,Punjab,2016,145.0,29140000.0,False,heat_deaths:ncrb_2016
+PB,Punjab,2017,60.0,29380000.0,False,heat_deaths:ncrb_2017
+PB,Punjab,2018,38.0,29619000.0,False,heat_deaths:ncrb_2018
+PB,Punjab,2019,90.0,29859000.0,False,heat_deaths:ncrb_2019
+PB,Punjab,2020,110.0,30099000.0,False,heat_deaths:ncrb_2020
+PB,Punjab,2021,91.0,30339000.0,False,heat_deaths:ncrb_2021
+PB,Punjab,2022,130.0,30535000.0,False,heat_deaths:ncrb_2022
+PB,Punjab,2023,114.0,30730000.0,False,heat_deaths:ncrb_2023
+PB,Punjab,2024,183.0,30926000.0,False,heat_deaths:ncrb_2024
+RJ,Rajasthan,2001,19.0,56507188.0,False,heat_deaths:ncrb_2001
+RJ,Rajasthan,2002,57.0,57711312.9,False,heat_deaths:ncrb_2002
+RJ,Rajasthan,2003,44.0,58915437.8,False,heat_deaths:ncrb_2003
+RJ,Rajasthan,2004,37.0,60119562.7,False,heat_deaths:ncrb_2004
+RJ,Rajasthan,2005,38.0,61323687.6,False,heat_deaths:ncrb_2005
+RJ,Rajasthan,2006,35.0,62527812.5,False,heat_deaths:ncrb_2006
+RJ,Rajasthan,2007,56.0,63731937.4,False,heat_deaths:ncrb_2007
+RJ,Rajasthan,2008,29.0,64936062.3,False,heat_deaths:ncrb_2008
+RJ,Rajasthan,2009,55.0,66140187.2,False,heat_deaths:ncrb_2009
+RJ,Rajasthan,2010,54.0,67344312.1,False,heat_deaths:ncrb_2010
+RJ,Rajasthan,2011,37.0,68548437.0,False,heat_deaths:ncrb_2011
+RJ,Rajasthan,2012,32.0,69687000.0,False,heat_deaths:ncrb_2012
+RJ,Rajasthan,2013,40.0,70825000.0,False,heat_deaths:ncrb_2013
+RJ,Rajasthan,2014,45.0,71963000.0,False,heat_deaths:ncrb_2014
+RJ,Rajasthan,2015,41.0,73102000.0,False,heat_deaths:ncrb_2015
+RJ,Rajasthan,2016,51.0,74240000.0,False,heat_deaths:ncrb_2016
+RJ,Rajasthan,2017,35.0,75248000.0,False,heat_deaths:ncrb_2017
+RJ,Rajasthan,2018,43.0,76256000.0,False,heat_deaths:ncrb_2018
+RJ,Rajasthan,2019,54.0,77264000.0,False,heat_deaths:ncrb_2019
+RJ,Rajasthan,2020,23.0,78273000.0,False,heat_deaths:ncrb_2020
+RJ,Rajasthan,2021,1.0,79281000.0,False,heat_deaths:ncrb_2021
+RJ,Rajasthan,2022,12.0,80153000.0,False,heat_deaths:ncrb_2022
+RJ,Rajasthan,2023,3.0,81025000.0,False,heat_deaths:ncrb_2023
+RJ,Rajasthan,2024,75.0,81897000.0,False,heat_deaths:ncrb_2024
+SK,Sikkim,2001,0.0,540851.0,False,heat_deaths:ncrb_2001
+SK,Sikkim,2002,0.0,547823.6,False,heat_deaths:ncrb_2002
+SK,Sikkim,2003,0.0,554796.2,False,heat_deaths:ncrb_2003
+SK,Sikkim,2004,0.0,561768.8,False,heat_deaths:ncrb_2004
+SK,Sikkim,2005,0.0,568741.4,False,heat_deaths:ncrb_2005
+SK,Sikkim,2006,0.0,575714.0,False,heat_deaths:ncrb_2006
+SK,Sikkim,2007,0.0,582686.6,False,heat_deaths:ncrb_2007
+SK,Sikkim,2008,0.0,589659.2,False,heat_deaths:ncrb_2008
+SK,Sikkim,2009,0.0,596631.8,False,heat_deaths:ncrb_2009
+SK,Sikkim,2010,0.0,603604.4,False,heat_deaths:ncrb_2010
+SK,Sikkim,2011,0.0,610577.0,False,heat_deaths:ncrb_2011
+SK,Sikkim,2012,0.0,617000.0,False,heat_deaths:ncrb_2012
+SK,Sikkim,2013,0.0,624000.0,False,heat_deaths:ncrb_2013
+SK,Sikkim,2014,0.0,631000.0,False,heat_deaths:ncrb_2014
+SK,Sikkim,2015,0.0,637000.0,False,heat_deaths:ncrb_2015
+SK,Sikkim,2016,0.0,644000.0,False,heat_deaths:ncrb_2016
+SK,Sikkim,2017,0.0,650000.0,False,heat_deaths:ncrb_2017
+SK,Sikkim,2018,0.0,657000.0,False,heat_deaths:ncrb_2018
+SK,Sikkim,2019,1.0,664000.0,False,heat_deaths:ncrb_2019
+SK,Sikkim,2020,0.0,670000.0,False,heat_deaths:ncrb_2020
+SK,Sikkim,2021,0.0,677000.0,False,heat_deaths:ncrb_2021
+SK,Sikkim,2022,0.0,683000.0,False,heat_deaths:ncrb_2022
+SK,Sikkim,2023,0.0,689000.0,False,heat_deaths:ncrb_2023
+SK,Sikkim,2024,0.0,695000.0,False,heat_deaths:ncrb_2024
+TN,Tamil Nadu,2001,27.0,62405679.0,False,heat_deaths:ncrb_2001
+TN,Tamil Nadu,2002,26.0,63379814.1,False,heat_deaths:ncrb_2002
+TN,Tamil Nadu,2003,54.0,64353949.2,False,heat_deaths:ncrb_2003
+TN,Tamil Nadu,2004,14.0,65328084.3,False,heat_deaths:ncrb_2004
+TN,Tamil Nadu,2005,5.0,66302219.4,False,heat_deaths:ncrb_2005
+TN,Tamil Nadu,2006,23.0,67276354.5,False,heat_deaths:ncrb_2006
+TN,Tamil Nadu,2007,14.0,68250489.6,False,heat_deaths:ncrb_2007
+TN,Tamil Nadu,2008,15.0,69224624.7,False,heat_deaths:ncrb_2008
+TN,Tamil Nadu,2009,31.0,70198759.8,False,heat_deaths:ncrb_2009
+TN,Tamil Nadu,2010,18.0,71172894.9,False,heat_deaths:ncrb_2010
+TN,Tamil Nadu,2011,1.0,72147030.0,False,heat_deaths:ncrb_2011
+TN,Tamil Nadu,2012,0.0,72645000.0,False,heat_deaths:ncrb_2012
+TN,Tamil Nadu,2013,0.0,73142000.0,False,heat_deaths:ncrb_2013
+TN,Tamil Nadu,2014,0.0,73640000.0,False,heat_deaths:ncrb_2014
+TN,Tamil Nadu,2015,0.0,74137000.0,False,heat_deaths:ncrb_2015
+TN,Tamil Nadu,2016,1.0,74635000.0,False,heat_deaths:ncrb_2016
+TN,Tamil Nadu,2017,0.0,74989000.0,False,heat_deaths:ncrb_2017
+TN,Tamil Nadu,2018,0.0,75342000.0,False,heat_deaths:ncrb_2018
+TN,Tamil Nadu,2019,0.0,75695000.0,False,heat_deaths:ncrb_2019
+TN,Tamil Nadu,2020,0.0,76049000.0,False,heat_deaths:ncrb_2020
+TN,Tamil Nadu,2021,2.0,76402000.0,False,heat_deaths:ncrb_2021
+TN,Tamil Nadu,2022,2.0,76631000.0,False,heat_deaths:ncrb_2022
+TN,Tamil Nadu,2023,1.0,76860000.0,False,heat_deaths:ncrb_2023
+TN,Tamil Nadu,2024,0.0,77089000.0,False,heat_deaths:ncrb_2024
+TR,Tripura,2001,4.0,3199203.0,False,heat_deaths:ncrb_2001
+TR,Tripura,2002,0.0,3246674.4,False,heat_deaths:ncrb_2002
+TR,Tripura,2003,2.0,3294145.8,False,heat_deaths:ncrb_2003
+TR,Tripura,2004,0.0,3341617.2,False,heat_deaths:ncrb_2004
+TR,Tripura,2005,15.0,3389088.6,False,heat_deaths:ncrb_2005
+TR,Tripura,2006,5.0,3436560.0,False,heat_deaths:ncrb_2006
+TR,Tripura,2007,0.0,3484031.4,False,heat_deaths:ncrb_2007
+TR,Tripura,2008,9.0,3531502.8,False,heat_deaths:ncrb_2008
+TR,Tripura,2009,10.0,3578974.2,False,heat_deaths:ncrb_2009
+TR,Tripura,2010,12.0,3626445.6,False,heat_deaths:ncrb_2010
+TR,Tripura,2011,6.0,3673917.0,False,heat_deaths:ncrb_2011
+TR,Tripura,2012,0.0,3714000.0,False,heat_deaths:ncrb_2012
+TR,Tripura,2013,12.0,3754000.0,False,heat_deaths:ncrb_2013
+TR,Tripura,2014,2.0,3794000.0,False,heat_deaths:ncrb_2014
+TR,Tripura,2015,0.0,3834000.0,False,heat_deaths:ncrb_2015
+TR,Tripura,2016,2.0,3874000.0,False,heat_deaths:ncrb_2016
+TR,Tripura,2017,0.0,3914000.0,False,heat_deaths:ncrb_2017
+TR,Tripura,2018,1.0,3953000.0,False,heat_deaths:ncrb_2018
+TR,Tripura,2019,1.0,3992000.0,False,heat_deaths:ncrb_2019
+TR,Tripura,2020,2.0,4032000.0,False,heat_deaths:ncrb_2020
+TR,Tripura,2021,0.0,4071000.0,False,heat_deaths:ncrb_2021
+TR,Tripura,2022,2.0,4109000.0,False,heat_deaths:ncrb_2022
+TR,Tripura,2023,1.0,4147000.0,False,heat_deaths:ncrb_2023
+TR,Tripura,2024,0.0,4184000.0,False,heat_deaths:ncrb_2024
+UP,Uttar Pradesh,2001,52.0,166197921.0,False,heat_deaths:ncrb_2001
+UP,Uttar Pradesh,2002,134.0,169559363.0,False,heat_deaths:ncrb_2002
+UP,Uttar Pradesh,2003,126.0,172920805.0,False,heat_deaths:ncrb_2003
+UP,Uttar Pradesh,2004,95.0,176282247.0,False,heat_deaths:ncrb_2004
+UP,Uttar Pradesh,2005,199.0,179643689.0,False,heat_deaths:ncrb_2005
+UP,Uttar Pradesh,2006,87.0,183005131.0,False,heat_deaths:ncrb_2006
+UP,Uttar Pradesh,2007,108.0,186366573.0,False,heat_deaths:ncrb_2007
+UP,Uttar Pradesh,2008,80.0,189728015.0,False,heat_deaths:ncrb_2008
+UP,Uttar Pradesh,2009,117.0,193089457.0,False,heat_deaths:ncrb_2009
+UP,Uttar Pradesh,2010,118.0,196450899.0,False,heat_deaths:ncrb_2010
+UP,Uttar Pradesh,2011,104.0,199812341.0,False,heat_deaths:ncrb_2011
+UP,Uttar Pradesh,2012,156.0,203067000.0,False,heat_deaths:ncrb_2012
+UP,Uttar Pradesh,2013,108.0,206322000.0,False,heat_deaths:ncrb_2013
+UP,Uttar Pradesh,2014,126.0,209577000.0,False,heat_deaths:ncrb_2014
+UP,Uttar Pradesh,2015,487.0,212832000.0,False,heat_deaths:ncrb_2015
+UP,Uttar Pradesh,2016,114.0,216087000.0,False,heat_deaths:ncrb_2016
+UP,Uttar Pradesh,2017,142.0,219051000.0,False,heat_deaths:ncrb_2017
+UP,Uttar Pradesh,2018,176.0,222015000.0,False,heat_deaths:ncrb_2018
+UP,Uttar Pradesh,2019,117.0,224979000.0,False,heat_deaths:ncrb_2019
+UP,Uttar Pradesh,2020,50.0,227943000.0,False,heat_deaths:ncrb_2020
+UP,Uttar Pradesh,2021,35.0,230907000.0,False,heat_deaths:ncrb_2021
+UP,Uttar Pradesh,2022,130.0,233297000.0,False,heat_deaths:ncrb_2022
+UP,Uttar Pradesh,2023,75.0,235687000.0,False,heat_deaths:ncrb_2023
+UP,Uttar Pradesh,2024,352.0,238078000.0,False,heat_deaths:ncrb_2024
+UK,Uttarakhand,2001,0.0,8489349.0,False,heat_deaths:ncrb_2001
+UK,Uttarakhand,2002,0.0,8649043.3,False,heat_deaths:ncrb_2002
+UK,Uttarakhand,2003,0.0,8808737.6,False,heat_deaths:ncrb_2003
+UK,Uttarakhand,2004,0.0,8968431.9,False,heat_deaths:ncrb_2004
+UK,Uttarakhand,2005,2.0,9128126.2,False,heat_deaths:ncrb_2005
+UK,Uttarakhand,2006,1.0,9287820.5,False,heat_deaths:ncrb_2006
+UK,Uttarakhand,2007,2.0,9447514.8,False,heat_deaths:ncrb_2007
+UK,Uttarakhand,2008,0.0,9607209.1,False,heat_deaths:ncrb_2008
+UK,Uttarakhand,2009,0.0,9766903.4,False,heat_deaths:ncrb_2009
+UK,Uttarakhand,2010,0.0,9926597.7,False,heat_deaths:ncrb_2010
+UK,Uttarakhand,2011,0.0,10086292.0,False,heat_deaths:ncrb_2011
+UK,Uttarakhand,2012,1.0,10220000.0,False,heat_deaths:ncrb_2012
+UK,Uttarakhand,2013,0.0,10354000.0,False,heat_deaths:ncrb_2013
+UK,Uttarakhand,2014,0.0,10487000.0,False,heat_deaths:ncrb_2014
+UK,Uttarakhand,2015,0.0,10621000.0,False,heat_deaths:ncrb_2015
+UK,Uttarakhand,2016,0.0,10755000.0,False,heat_deaths:ncrb_2016
+UK,Uttarakhand,2017,0.0,10884000.0,False,heat_deaths:ncrb_2017
+UK,Uttarakhand,2018,0.0,11013000.0,False,heat_deaths:ncrb_2018
+UK,Uttarakhand,2019,0.0,11141000.0,False,heat_deaths:ncrb_2019
+UK,Uttarakhand,2020,0.0,11270000.0,False,heat_deaths:ncrb_2020
+UK,Uttarakhand,2021,0.0,11399000.0,False,heat_deaths:ncrb_2021
+UK,Uttarakhand,2022,0.0,11518000.0,False,heat_deaths:ncrb_2022
+UK,Uttarakhand,2023,0.0,11637000.0,False,heat_deaths:ncrb_2023
+UK,Uttarakhand,2024,0.0,11755000.0,False,heat_deaths:ncrb_2024
+WB,West Bengal,2001,66.0,80176197.0,False,heat_deaths:ncrb_2001
+WB,West Bengal,2002,62.0,81286188.8,False,heat_deaths:ncrb_2002
+WB,West Bengal,2003,52.0,82396180.6,False,heat_deaths:ncrb_2003
+WB,West Bengal,2004,96.0,83506172.4,False,heat_deaths:ncrb_2004
+WB,West Bengal,2005,211.0,84616164.2,False,heat_deaths:ncrb_2005
+WB,West Bengal,2006,137.0,85726156.0,False,heat_deaths:ncrb_2006
+WB,West Bengal,2007,86.0,86836147.8,False,heat_deaths:ncrb_2007
+WB,West Bengal,2008,43.0,87946139.6,False,heat_deaths:ncrb_2008
+WB,West Bengal,2009,45.0,89056131.4,False,heat_deaths:ncrb_2009
+WB,West Bengal,2010,54.0,90166123.2,False,heat_deaths:ncrb_2010
+WB,West Bengal,2011,69.0,91276115.0,False,heat_deaths:ncrb_2011
+WB,West Bengal,2012,76.0,92037000.0,False,heat_deaths:ncrb_2012
+WB,West Bengal,2013,45.0,92797000.0,False,heat_deaths:ncrb_2013
+WB,West Bengal,2014,88.0,93558000.0,False,heat_deaths:ncrb_2014
+WB,West Bengal,2015,28.0,94318000.0,False,heat_deaths:ncrb_2015
+WB,West Bengal,2016,18.0,95079000.0,False,heat_deaths:ncrb_2016
+WB,West Bengal,2017,48.0,95688000.0,False,heat_deaths:ncrb_2017
+WB,West Bengal,2018,46.0,96297000.0,False,heat_deaths:ncrb_2018
+WB,West Bengal,2019,49.0,96906000.0,False,heat_deaths:ncrb_2019
+WB,West Bengal,2020,6.0,97516000.0,False,heat_deaths:ncrb_2020
+WB,West Bengal,2021,11.0,98125000.0,False,heat_deaths:ncrb_2021
+WB,West Bengal,2022,18.0,98604000.0,False,heat_deaths:ncrb_2022
+WB,West Bengal,2023,14.0,99084000.0,False,heat_deaths:ncrb_2023
+WB,West Bengal,2024,19.0,99563000.0,False,heat_deaths:ncrb_2024

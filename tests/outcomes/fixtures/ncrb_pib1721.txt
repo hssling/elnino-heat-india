@@ -1,0 +1,42 @@
+Annexure-I
+State/UT-wise Number of Accidental deaths due to Heat/Sun Stroke during 2017-2021
+SN State/UT 2017 2018 2019 2020 2021
+1 Andhra Pradesh 231 97 128 50 22
+2 Arunachal Pradesh 0 0 0 0 0
+3 Assam 0 0 3 0 0
+4 Bihar 84 64 215 53 57
+5 Chhattisgarh 11 1 16 3 2
+6 Goa 0 0 0 0 0
+7 Gujarat 25 31 27 12 8
+8 Haryana 24 56 46 23 14
+9 Himachal Pradesh 0 0 0 0 1
+10 Jharkhand 51 42 88 23 33
+11 Karnataka 0 0 4 1 0
+12 Kerala 1 1 3 0 0
+13 Madhya Pradesh 34 15 33 7 2
+14 Maharashtra 102 128 159 56 37
+15 Manipur 0 0 0 0 0
+16 Meghalaya 0 4 0 0 0
+17 Mizoram 0 0 0 0 0
+18 Nagaland 0 0 0 0 0
+19 Odisha 99 40 84 13 15
+20 Punjab 60 38 90 110 91
+21 Rajasthan 35 43 54 23 1
+22 Sikkim 0 0 1 0 0
+23 Tamil Nadu 0 0 0 0 2
+24 Telangana 180 107 156 98 43
+25 Tripura 0 1 1 2 0
+26 Uttar Pradesh 142 176 117 50 35
+27 Uttarakhand 0 0 0 0 0
+28 West Bengal 48 46 49 6 11
+TOTAL STATE(S) 1127 890 1274 530 374
+29 A & N Islands 0 0 0 0 0
+30 Chandigarh 0 0 0 0 0
+31 D&N Haveli and Daman&Diu @ + 0 0 0 0 0
+32 Delhi UT 0 0 0 0 0
+33 Jammu & Kashmir @ * 0 0 0 0 0
+34 Ladakh @ - - - 0 0
+35 Lakshadweep 0 0 0 0 0
+36 Puducherry 0 0 0 0 0
+TOTAL UT(S) 0 0 0 0 0
+TOTAL (ALL INDIA) 1127 890 1274 530 374

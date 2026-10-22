@@ -1,0 +1,32 @@
+# Raw and user-supplied inputs (not redistributed)
+data/raw/
+data/external/
+data/MANIFEST.csv
+data/derived/grids/
+data/derived/_parts/
+data/derived/*.log
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+models/renv/library/
+models/renv/local/
+models/renv/staging/
+models/C/_cache/
+models/C/logs/
+# Figure images (drawn by papers/C/figures/make_figures.py)
+papers/C/figures/*.png
+papers/C/figures/*.tif
+# OS / editors
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
+.idea/

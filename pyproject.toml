@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not network and not r' -q"
+markers = ["network: test needs internet access (deselected by default)",
+           "r: runs the R testthat suite (deselected by default; run with -m r)"]

@@ -1,0 +1,7 @@
+Analysis,Random effects,Unit-years,IRR per 1 °C (95% CI),P,Status
+"Primary (reference)","diag",816,"1.21 (95% CI 1.05–1.40)","0.008","ok"
+"Symmetric single ONI term (spec section 4 form)","us",816,"1.28 (95% CI 1.16–1.42)","<0.001","ok; different estimand (per 1 °C over the whole ONI range)"
+"RONI in place of the traditional ONI","diag",816,"1.13 (95% CI 0.93–1.36)","0.210","ok"
+"Random intercepts only","int",816,"1.21 (95% CI 1.05–1.40)","0.008","ok; identical to the primary model (unit slope SD estimated at 0)"
+"Excluding 2020-2021","diag",748,"1.20 (95% CI 1.04–1.38)","0.010","ok"
+"Excluding Dadra and Nagar Haveli and Daman and Diu","diag",792,"1.21 (95% CI 1.05–1.40)","0.008","ok"

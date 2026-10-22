@@ -1,0 +1,764 @@
+{
+  "C.enso.decaying_years": {
+    "value": "2003;2005;2007;2010;2015;2016;2019;2020;2024",
+    "display": "2003, 2005, 2007, 2010, 2015, 2016, 2019, 2020 and 2024",
+    "script": "models/C/descriptive.R",
+    "description": "El Nino-decaying years 2001-2024"
+  },
+  "C.enso.n_decaying": {
+    "value": 9,
+    "display": "9",
+    "script": "models/C/descriptive.R",
+    "description": "Years 2001-2024 with el_nino_decaying TRUE (enso_annual.csv)"
+  },
+  "C.enso.n_years_heat": {
+    "value": 24,
+    "display": "24",
+    "script": "models/C/heat.R",
+    "description": "Calendar years in the primary heat fit"
+  },
+  "C.ew.extrapolation_note": {
+    "value": "",
+    "display": "No scenario lies outside the range of the preceding-winter ONI in the training data (maximum +2.50 °C).",
+    "script": "models/C/project.R",
+    "description": "project()$extrapolation over the three scenarios (training max oni_djf_prev 2.50); trend extrapolation TRUE (training years 2001-2024, projected 2027)"
+  },
+  "C.ew.obs.status": {
+    "value": null,
+    "display": "had not been published at submission, so the values above are scenarios and are provisional",
+    "script": "models/C/project.R",
+    "description": "Observed DJF 2026-27 traditional ONI not yet published by CPC (expected early March 2027)"
+  },
+  "C.ew.s15.total": {
+    "value": 364.266223001308,
+    "display": "364 (nominal 95% interval 107–694)",
+    "script": "models/C/project.R",
+    "description": "National expected excess recorded heat deaths 2027 at ONI +1.5 deg C vs 0 (sum of unit excess per draw; mean, 2.5/97.5 percentiles of 1000 joint draws)"
+  },
+  "C.ew.s15.total_short": {
+    "value": 364.266223001308,
+    "display": "364",
+    "script": "models/C/project.R",
+    "description": "National expected excess recorded heat deaths 2027 at ONI +1.5 deg C, mean only"
+  },
+  "C.ew.s20.total": {
+    "value": 514.936323418274,
+    "display": "515 (nominal 95% interval 144–1,008)",
+    "script": "models/C/project.R",
+    "description": "National expected excess recorded heat deaths 2027 at ONI +2.0 deg C vs 0 (sum of unit excess per draw; mean, 2.5/97.5 percentiles of 1000 joint draws)"
+  },
+  "C.ew.s25.total": {
+    "value": 683.454375804597,
+    "display": "683 (nominal 95% interval 184–1,362)",
+    "script": "models/C/project.R",
+    "description": "National expected excess recorded heat deaths 2027 at ONI +2.5 deg C vs 0 (sum of unit excess per draw; mean, 2.5/97.5 percentiles of 1000 joint draws)"
+  },
+  "C.ew.s25.total_short": {
+    "value": 683.454375804597,
+    "display": "683",
+    "script": "models/C/project.R",
+    "description": "National expected excess recorded heat deaths 2027 at ONI +2.5 deg C, mean only"
+  },
+  "C.ew.top_units": {
+    "value": "AP_TG;UP;PB;BR;MH",
+    "display": "Andhra Pradesh and Telangana, Uttar Pradesh, Punjab, Bihar and Maharashtra",
+    "script": "models/C/project.R",
+    "description": "Five units with the largest mean expected excess at ONI +2.0 deg C, descending"
+  },
+  "C.farm.irr_developing": {
+    "value": 1.06909766241571,
+    "display": "1.07 (95% CI 0.95–1.21)",
+    "script": "models/C/farmers.R",
+    "description": "Farming-sector suicides IRR El Nino-developing vs other years (re diag; Wald CI)"
+  },
+  "C.farm.irr_jjas_def10": {
+    "value": 1.01417322214808,
+    "display": "1.01 (95% CI 0.99–1.04)",
+    "script": "models/C/farmers.R",
+    "description": "Farming-sector suicides IRR per 10-point June-September rainfall deficit (re us; Wald CI)"
+  },
+  "C.farm.irr_spi_dec": {
+    "value": 1.02756328819361,
+    "display": "1.03 (95% CI 0.98–1.08)",
+    "script": "models/C/farmers.R",
+    "description": "Farming-sector suicides IRR per 1-unit decrease in SPI-3 (September) (re diag; Wald CI)"
+  },
+  "C.farm.n_nonreporting": {
+    "value": 110,
+    "display": "110",
+    "script": "models/C/farmers.R",
+    "description": "farming_sector cells 2001-2023 set non-reporting by the P14/P16 printed-zero rule (reason prefix 'P14 printed-zero rule:' in outcomes_reviewed.csv); 112 non_reporting cells in all, the other 2 being West Bengal 2012 (printed 'NR') and Chhattisgarh 2012 (P14 reporting-episode ruling)"
+  },
+  "C.farm.n_unit_years": {
+    "value": 625,
+    "display": "625",
+    "script": "models/C/farmers.R",
+    "description": "Rows in the farming-sector SPI-3 fit"
+  },
+  "C.farm.p_developing": {
+    "value": 0.275672643333602,
+    "display": "0.276",
+    "script": "models/C/farmers.R",
+    "description": "P value, farming-sector suicides El Nino-developing vs other years"
+  },
+  "C.farm.p_jjas": {
+    "value": 0.263894993939503,
+    "display": "0.264",
+    "script": "models/C/farmers.R",
+    "description": "P value, farming-sector suicides per 10-point June-September rainfall deficit"
+  },
+  "C.farm.p_spi": {
+    "value": 0.277758641542399,
+    "display": "0.278",
+    "script": "models/C/farmers.R",
+    "description": "P value, farming-sector suicides per 1-unit decrease in SPI-3 (September)"
+  },
+  "C.farm.sens_pre2014.irr_developing": {
+    "value": 1.16128595826488,
+    "display": "1.16 (95% CI 1.02–1.32)",
+    "script": "models/C/farmers.R",
+    "description": "Pre-specified sensitivity: El Nino-developing vs other years IRR, 2001-2013 only (no break indicator), Wald CI"
+  },
+  "C.farm.sens_pre2014.p_developing": {
+    "value": 0.0215095637491179,
+    "display": "0.022",
+    "script": "models/C/farmers.R",
+    "description": "P value of the 2001-2013 developing-year sensitivity"
+  },
+  "C.farm.sens_truezero.irr_spi_dec": {
+    "value": 1.00855924701496,
+    "display": "1.01 (95% CI 0.93–1.09)",
+    "script": "models/C/farmers.R",
+    "description": "SPI-3 IRR per 1-unit decrease with the 110 P14-rule non-reporting cells set to their printed values (Ruling P16)"
+  },
+  "C.food.diff_developing": {
+    "value": -6.48066955092398,
+    "display": "−6.5 (95% CI −9.3 to −3.6)",
+    "script": "models/C/foodgrain.R",
+    "description": "Foodgrain deviation from trend (percentage points), difference, El Nino-developing vs other years; Wald 95% CI; n = 582"
+  },
+  "C.food.diff_jjas_def10": {
+    "value": -2.22735346256327,
+    "display": "−2.2 (95% CI −2.8 to −1.7)",
+    "script": "models/C/foodgrain.R",
+    "description": "Foodgrain deviation from trend (percentage points), difference per 10-point June-September rainfall deficit (-10 beta, bounds swapped); Wald 95% CI; n = 577"
+  },
+  "C.food.diff_oni": {
+    "value": -2.85871372672529,
+    "display": "−2.9 (95% CI −4.7 to −1.0)",
+    "script": "models/C/foodgrain.R",
+    "description": "Foodgrain deviation from trend (percentage points), difference per +1 deg C oni_jjas; Wald 95% CI; n = 582"
+  },
+  "C.food.n_unit_years": {
+    "value": 577,
+    "display": "577",
+    "script": "models/C/foodgrain.R",
+    "description": "Rows in the foodgrain rainfall fit"
+  },
+  "C.food.p_developing": {
+    "value": 8.75765268019937e-06,
+    "display": "<0.001",
+    "script": "models/C/foodgrain.R",
+    "description": "P value, foodgrain difference, El Nino-developing vs other years"
+  },
+  "C.food.p_jjas": {
+    "value": 2.9837205791893e-15,
+    "display": "<0.001",
+    "script": "models/C/foodgrain.R",
+    "description": "P value, foodgrain difference per 10-point June-September rainfall deficit (-10 beta, bounds swapped)"
+  },
+  "C.food.p_oni": {
+    "value": 0.00214264327771656,
+    "display": "0.002",
+    "script": "models/C/foodgrain.R",
+    "description": "P value, foodgrain difference per +1 deg C oni_jjas"
+  },
+  "C.h3.verdict": {
+    "value": "not consistent with",
+    "display": "not consistent with",
+    "script": "models/C/mediation.R",
+    "description": "H3 rule: (i) decaying IRR lower bound 1.3348 > 1: TRUE; (ii) heatwave-days proportion largest (props: hw=0.091, tmax=0.108, onset=0.002) with bootstrap lower bound > 0 (lower bound 0.04004301; flag ok; prop_flag ok): FALSE"
+  },
+  "C.heat.irr_decaying": {
+    "value": 1.57178553413536,
+    "display": "1.57 (95% CI 1.33–1.85)",
+    "script": "models/C/heat.R",
+    "description": "IRR El Nino-decaying vs other years (re diag); Wald 95% CI; lo=1.33476 hi=1.8509"
+  },
+  "C.heat.irr_dmi": {
+    "value": 1.26218586624693,
+    "display": "1.26 (95% CI 0.93–1.71)",
+    "script": "models/C/heat.R",
+    "description": "IRR per +1 deg C dmi_son_prev, primary + DMI + oni_djf_prev:dmi_son_prev (re diag); Wald 95% CI; lo=0.931247 hi=1.71073"
+  },
+  "C.heat.irr_elnino": {
+    "value": 1.21240680539617,
+    "display": "1.21 (95% CI 1.05–1.40)",
+    "script": "models/C/heat.R",
+    "description": "IRR per +1 deg C of the El Nino term max(oni_djf_prev, 0), primary model; Wald 95% CI; lo=1.05229 hi=1.39689"
+  },
+  "C.heat.irr_lanina": {
+    "value": 0.737878729532192,
+    "display": "0.74 (95% CI 0.60–0.91)",
+    "script": "models/C/heat.R",
+    "description": "IRR per 1 deg C cooler La Nina term min(oni_djf_prev, 0): exp(-beta), bounds swapped; Wald 95% CI; lo=0.600654 hi=0.906454"
+  },
+  "C.heat.irr_oni_x_dmi": {
+    "value": 1.12021219257756,
+    "display": "1.12 (95% CI 0.82–1.53)",
+    "script": "models/C/heat.R",
+    "description": "IRR of the interaction oni_djf_prev x dmi_son_prev (per deg C^2; linear ONI); Wald 95% CI; lo=0.821867 hi=1.52686"
+  },
+  "C.heat.n_unit_years": {
+    "value": 816,
+    "display": "816",
+    "script": "models/C/heat.R",
+    "description": "Unit-years in the primary heat fit"
+  },
+  "C.heat.n_units": {
+    "value": 34,
+    "display": "34",
+    "script": "models/C/heat.R",
+    "description": "Units in the primary heat fit"
+  },
+  "C.heat.n_units_irr_gt1": {
+    "value": 34,
+    "display": "IRR 1.21 in all 34 units",
+    "script": "models/C/heat.R",
+    "description": "Units whose conditional IRR (fixed + conditional-mode random slope) for the El Nino term exceeds 1 (34 of 34); unit IRR range 1.2124-1.2124 (collapsed to one value at 2 decimals; P20 display)"
+  },
+  "C.heat.p_decaying": {
+    "value": 5.8837064004943e-08,
+    "display": "<0.001",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR El Nino-decaying vs other years (re diag)"
+  },
+  "C.heat.p_dmi": {
+    "value": 0.133398099024599,
+    "display": "0.133",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR per +1 deg C dmi_son_prev, primary + DMI + oni_djf_prev:dmi_son_prev (re diag)"
+  },
+  "C.heat.p_elnino": {
+    "value": 0.00769290435433294,
+    "display": "0.008",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR per +1 deg C of the El Nino term max(oni_djf_prev, 0), primary model"
+  },
+  "C.heat.p_hwday": {
+    "value": 1.50828852429145e-06,
+    "display": "<0.001",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR per additional heatwave day (re diag)"
+  },
+  "C.heat.p_lanina": {
+    "value": 0.00378543692037641,
+    "display": "0.004",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR per 1 deg C cooler La Nina term min(oni_djf_prev, 0): exp(-beta), bounds swapped"
+  },
+  "C.heat.p_oni_x_dmi": {
+    "value": 0.472497481035343,
+    "display": "0.472",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR of the interaction oni_djf_prev x dmi_son_prev (per deg C^2; linear ONI)"
+  },
+  "C.heat.p_slope_lrt": {
+    "value": 1,
+    "display": "1.000",
+    "script": "models/C/heat.R",
+    "description": "Likelihood-ratio test, primary (diag) vs random intercept only, same rows: chi2 = 0.000, df = 1 (boundary test, conservative)"
+  },
+  "C.heat.p_tmax": {
+    "value": 0.00250453464663458,
+    "display": "0.003",
+    "script": "models/C/heat.R",
+    "description": "P value: IRR per +1 deg C tmax_mamj_anom (re us)"
+  },
+  "C.heat.re_used": {
+    "value": "diag",
+    "display": "uncorrelated random intercept and slope",
+    "script": "models/C/heat.R",
+    "description": "Random-effect structure used by the primary heat fit"
+  },
+  "C.heat.rr_hwday": {
+    "value": 1.06715185038327,
+    "display": "1.07 (95% CI 1.04–1.10)",
+    "script": "models/C/heat.R",
+    "description": "IRR per additional heatwave day (re diag); Wald 95% CI; lo=1.03926 hi=1.09579"
+  },
+  "C.heat.rr_tmax": {
+    "value": 1.2574752112679,
+    "display": "1.26 (95% CI 1.08–1.46)",
+    "script": "models/C/heat.R",
+    "description": "IRR per +1 deg C tmax_mamj_anom (re us); Wald 95% CI; lo=1.08389 hi=1.45886"
+  },
+  "C.heat.slope_sd": {
+    "value": 0.0001135285882148,
+    "display": "0.00",
+    "script": "models/C/heat.R",
+    "description": "SD of the unit random slope on the El Nino term (log-rate scale), primary model"
+  },
+  "C.heat.total_deaths": {
+    "value": 23821,
+    "display": "23,821",
+    "script": "models/C/heat.R",
+    "description": "Sum of heat_deaths over the primary-fit rows"
+  },
+  "C.idx.aic_maxdiff": {
+    "value": 0.593052730412637,
+    "display": "0.59",
+    "script": "models/C/validate.R",
+    "description": "Largest AIC difference between the three ENSO indices (primary spec, same 816 rows): oni=4299.54, roni=4299.59, nino34=4300.13"
+  },
+  "C.idx.best_aic": {
+    "value": "oni",
+    "display": "the traditional ONI",
+    "script": "models/C/validate.R",
+    "description": "Index with the lowest AIC (same 816 rows): oni=4299.54, roni=4299.59, nino34=4300.13; RE used oni=diag, roni=diag, nino34=diag"
+  },
+  "C.idx.nino34.irr": {
+    "value": 1.1600685527144,
+    "display": "1.16 (95% CI 0.99–1.35)",
+    "script": "models/C/validate.R",
+    "description": "IRR per +1 deg C of the El Nino term with nino34 in place of the traditional ONI (primary spec, all 816 rows, re diag), Wald CI"
+  },
+  "C.idx.nino34.male": {
+    "value": 0.512959679791954,
+    "display": "0.513",
+    "script": "models/C/validate.R",
+    "description": "LOEO MALE of the primary spec with index nino34 (common rows 510)"
+  },
+  "C.idx.nino34.p": {
+    "value": 0.0588718667415445,
+    "display": "0.059",
+    "script": "models/C/validate.R",
+    "description": "P value of the El Nino term with nino34"
+  },
+  "C.idx.oni.coverage_loeo": {
+    "value": 0.958823529411765,
+    "display": "95.9%",
+    "script": "models/C/validate.R",
+    "description": "LOEO coverage of the nominal 95% prediction interval of the primary model (traditional ONI; Table S4), the model used for the 2027 projection"
+  },
+  "C.idx.oni.coverage_rolling": {
+    "value": 0.932352941176471,
+    "display": "93.2%",
+    "script": "models/C/validate.R",
+    "description": "Rolling-origin coverage of the nominal 95% prediction interval of the primary model (traditional ONI; Table S4)"
+  },
+  "C.idx.oni.male": {
+    "value": 0.51381527525633,
+    "display": "0.514",
+    "script": "models/C/validate.R",
+    "description": "LOEO MALE of the primary spec with index oni (common rows 510)"
+  },
+  "C.idx.roni.irr": {
+    "value": 1.12651719968457,
+    "display": "1.13 (95% CI 0.93–1.36)",
+    "script": "models/C/validate.R",
+    "description": "IRR per +1 deg C of the El Nino term with roni in place of the traditional ONI (primary spec, all 816 rows, re diag), Wald CI"
+  },
+  "C.idx.roni.male": {
+    "value": 0.508039172918021,
+    "display": "0.508",
+    "script": "models/C/validate.R",
+    "description": "LOEO MALE of the primary spec with index roni (common rows 510)"
+  },
+  "C.idx.roni.p": {
+    "value": 0.210486983289801,
+    "display": "0.210",
+    "script": "models/C/validate.R",
+    "description": "P value of the El Nino term with roni"
+  },
+  "C.med.hw.a": {
+    "value": 0.436564832304459,
+    "display": "0.44 (95% CI 0.27–0.60)",
+    "script": "models/C/mediation.R",
+    "description": "a-path: change in heatwave_days (days) per +1 deg C ONI, Gaussian LMM, Wald CI; n = 816"
+  },
+  "C.med.hw.b": {
+    "value": 1.05036551258015,
+    "display": "1.05 (95% CI 1.02–1.08)",
+    "script": "models/C/mediation.R",
+    "description": "b-path: IRR per 1 unit of heatwave_days, NB GLMM with ONI, Wald CI"
+  },
+  "C.med.hw.indirect": {
+    "value": 1.02168376342407,
+    "display": "1.02 (95% CI 1.01–1.04)",
+    "script": "models/C/mediation.R",
+    "description": "Indirect IRR per +1 deg C ONI through heatwave_days, exp(a*b), cluster-bootstrap percentile CI (B = 1000, ok 1000)"
+  },
+  "C.med.hw.prop": {
+    "value": 9.10905640763107,
+    "display": "9% (95% CI 4–18%)",
+    "script": "models/C/mediation.R",
+    "description": "Proportion mediated through heatwave_days = indirect / c_total x 100 (point 9.11%); flag ok; prop_flag ok"
+  },
+  "C.med.onset.a": {
+    "value": 1.15965854648958,
+    "display": "1.16 (95% CI 0.15–2.17)",
+    "script": "models/C/mediation.R",
+    "description": "a-path: change in onset_anom_days (days) per +1 deg C ONI, Gaussian LMM, Wald CI; n = 756"
+  },
+  "C.med.onset.b": {
+    "value": 1.00044978174436,
+    "display": "1.00 (95% CI 1.00–1.01)",
+    "script": "models/C/mediation.R",
+    "description": "b-path: IRR per 1 unit of onset_anom_days, NB GLMM with ONI, Wald CI"
+  },
+  "C.med.onset.indirect": {
+    "value": 1.00052161196974,
+    "display": "1.00 (95% CI 0.99–1.01)",
+    "script": "models/C/mediation.R",
+    "description": "Indirect IRR per +1 deg C ONI through onset_anom_days, exp(a*b), cluster-bootstrap percentile CI (B = 1000, ok 999)"
+  },
+  "C.med.onset.prop": {
+    "value": 0.232204469067031,
+    "display": "0% (95% CI −3 to 4%)",
+    "script": "models/C/mediation.R",
+    "description": "Proportion mediated through onset_anom_days = indirect / c_total x 100 (point 0.23%); flag ok; prop_flag ok"
+  },
+  "C.med.tmax.a": {
+    "value": 0.211155642323739,
+    "display": "0.21 (95% CI 0.16–0.26)",
+    "script": "models/C/mediation.R",
+    "description": "a-path: change in tmax_mamj_anom (deg C) per +1 deg C ONI, Gaussian LMM, Wald CI; n = 816"
+  },
+  "C.med.tmax.b": {
+    "value": 1.12753555899051,
+    "display": "1.13 (95% CI 1.02–1.25)",
+    "script": "models/C/mediation.R",
+    "description": "b-path: IRR per 1 unit of tmax_mamj_anom, NB GLMM with ONI, Wald CI"
+  },
+  "C.med.tmax.indirect": {
+    "value": 1.02566986504804,
+    "display": "1.03 (95% CI 1.00–1.06)",
+    "script": "models/C/mediation.R",
+    "description": "Indirect IRR per +1 deg C ONI through tmax_mamj_anom, exp(a*b), cluster-bootstrap percentile CI (B = 1000, ok 1000)"
+  },
+  "C.med.tmax.prop": {
+    "value": 10.7625074978605,
+    "display": "11% (95% CI 2–23%)",
+    "script": "models/C/mediation.R",
+    "description": "Proportion mediated through tmax_mamj_anom = indirect / c_total x 100 (point 10.76%); flag ok; prop_flag ok"
+  },
+  "C.med.total_irr": {
+    "value": 1.26554397822956,
+    "display": "1.27 (95% CI 1.17–1.37)",
+    "script": "models/C/mediation.R",
+    "description": "Total IRR per +1 deg C ONI, exp(c_total), heatwave-days run, Wald CI from the total model"
+  },
+  "C.sens.elnino_range": {
+    "value": [1.12651719968457, 1.2124068136572],
+    "display": "1.13 to 1.21",
+    "script": "models/C/heat.R",
+    "description": "Min and max point IRR of the El Nino term across 4 sensitivity fits (RONI, random intercept only, excluding 2020-2021, excluding DNH_DD; ruling P23 moved the symmetric single-ONI fit to C.sens.symmetric_irr); min from 'RONI in place of the traditional ONI', max from 'Random intercepts only'; 0 failed"
+  },
+  "C.sens.symmetric_irr": {
+    "value": 1.28415006264742,
+    "display": "1.28 (95% CI 1.16–1.42)",
+    "script": "models/C/heat.R",
+    "description": "IRR per +1 deg C of a single symmetric oni_djf_prev term (spec section 4 form; a different estimand from the El Nino term), Wald CI"
+  },
+  "C.t1.dec.deaths": {
+    "value": 1274,
+    "display": "1,274 (530–1,908)",
+    "script": "models/C/descriptive.R",
+    "description": "National recorded heat deaths per year (sum over units), median (range), group dec"
+  },
+  "C.t1.dec.hw": {
+    "value": 1.76102888837965,
+    "display": "1.8 (3.4)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit heatwave_days, mean (SD) over unit-years, group dec"
+  },
+  "C.t1.dec.n_years": {
+    "value": 9,
+    "display": "9",
+    "script": "models/C/descriptive.R",
+    "description": "Years 2001-2024 in group dec (el_nino_decaying TRUE)"
+  },
+  "C.t1.dec.oni": {
+    "value": 1.15333333333333,
+    "display": "+1.15 (+0.62 to +2.50)",
+    "script": "models/C/descriptive.R",
+    "description": "Preceding-winter traditional ONI (oni_djf_prev) by year, mean (range), group dec"
+  },
+  "C.t1.dec.onset": {
+    "value": 0.302674821464197,
+    "display": "+0.3 (11.8)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit onset_anom_days (AN, LD excluded), mean (SD) over unit-years, group dec"
+  },
+  "C.t1.dec.rate": {
+    "value": 9.75867077333852,
+    "display": "9.8 (3.9–15.0)",
+    "script": "models/C/descriptive.R",
+    "description": "National heat deaths per 10 million population per year, median (range), group dec"
+  },
+  "C.t1.dec.tmax": {
+    "value": 0.351807523622813,
+    "display": "+0.35 (0.89)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit tmax_mamj_anom (deg C), mean (SD) over unit-years, group dec"
+  },
+  "C.t1.dev.farm_post": {
+    "value": 11584,
+    "display": "11,584 (10,675–12,493)",
+    "script": "models/C/descriptive.R",
+    "description": "National farming_sector suicides per year 2014-2023 (sum over units with data), median (range), group dev"
+  },
+  "C.t1.dev.farm_pre": {
+    "value": 17971,
+    "display": "17,971 (17,368–18,241)",
+    "script": "models/C/descriptive.R",
+    "description": "National farming_sector suicides per year 2001-2013 (sum over units with data), median (range), group dev"
+  },
+  "C.t1.dev.food": {
+    "value": -3.58968163115919,
+    "display": "−3.6 (15.7)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit foodgrain_dev_pct 1997-2016, mean (SD), group dev"
+  },
+  "C.t1.dev.jjas": {
+    "value": -11.9743383269315,
+    "display": "−12.0 (18.2)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit rain_jjas_dep_pct 2001-2023 (farmers_model.csv; AN, LD excluded), mean (SD), group dev"
+  },
+  "C.t1.dev.n_years": {
+    "value": 5,
+    "display": "5",
+    "script": "models/C/descriptive.R",
+    "description": "Years 2001-2023 in group dev (el_nino_developing TRUE)"
+  },
+  "C.t1.dev.spi": {
+    "value": -0.520763458008594,
+    "display": "−0.52 (0.93)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit spi3_sep 2001-2023 (AN, LD excluded), mean (SD), group dev"
+  },
+  "C.t1.odec.deaths": {
+    "value": 793,
+    "display": "793 (374–1,248)",
+    "script": "models/C/descriptive.R",
+    "description": "National recorded heat deaths per year (sum over units), median (range), group odec"
+  },
+  "C.t1.odec.hw": {
+    "value": 1.2440354267527,
+    "display": "1.2 (2.8)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit heatwave_days, mean (SD) over unit-years, group odec"
+  },
+  "C.t1.odec.n_years": {
+    "value": 15,
+    "display": "15",
+    "script": "models/C/descriptive.R",
+    "description": "Years 2001-2024 in group odec (el_nino_decaying FALSE)"
+  },
+  "C.t1.odec.oni": {
+    "value": -0.643333333333333,
+    "display": "−0.64 (−1.76 to +0.34)",
+    "script": "models/C/descriptive.R",
+    "description": "Preceding-winter traditional ONI (oni_djf_prev) by year, mean (range), group odec"
+  },
+  "C.t1.odec.onset": {
+    "value": -1.68760806811874,
+    "display": "−1.7 (15.2)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit onset_anom_days (AN, LD excluded), mean (SD) over unit-years, group odec"
+  },
+  "C.t1.odec.rate": {
+    "value": 6.74917341584008,
+    "display": "6.7 (2.7–10.2)",
+    "script": "models/C/descriptive.R",
+    "description": "National heat deaths per 10 million population per year, median (range), group odec"
+  },
+  "C.t1.odec.tmax": {
+    "value": 0.283354927882869,
+    "display": "+0.28 (0.76)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit tmax_mamj_anom (deg C), mean (SD) over unit-years, group odec"
+  },
+  "C.t1.odev.farm_post": {
+    "value": 10647.5,
+    "display": "10,648 (10,028–11,690)",
+    "script": "models/C/descriptive.R",
+    "description": "National farming_sector suicides per year 2014-2023 (sum over units with data), median (range), group odev"
+  },
+  "C.t1.odev.farm_pre": {
+    "value": 16305.5,
+    "display": "16,306 (11,772–17,164)",
+    "script": "models/C/descriptive.R",
+    "description": "National farming_sector suicides per year 2001-2013 (sum over units with data), median (range), group odev"
+  },
+  "C.t1.odev.food": {
+    "value": 2.89098498900126,
+    "display": "+2.9 (15.0)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit foodgrain_dev_pct 1997-2016, mean (SD), group odev"
+  },
+  "C.t1.odev.jjas": {
+    "value": 0.87331449362599,
+    "display": "+0.9 (22.1)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit rain_jjas_dep_pct 2001-2023 (farmers_model.csv; AN, LD excluded), mean (SD), group odev"
+  },
+  "C.t1.odev.n_years": {
+    "value": 18,
+    "display": "18",
+    "script": "models/C/descriptive.R",
+    "description": "Years 2001-2023 in group odev (el_nino_developing FALSE)"
+  },
+  "C.t1.odev.spi": {
+    "value": 0.000348397399381492,
+    "display": "0.00 (1.04)",
+    "script": "models/C/descriptive.R",
+    "description": "Unit spi3_sep 2001-2023 (AN, LD excluded), mean (SD), group odev"
+  },
+  "C.val.loeo.A.coverage": {
+    "value": 0.947058823529412,
+    "display": "94.7%",
+    "script": "models/C/validate.R",
+    "description": "LOEO coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model A"
+  },
+  "C.val.loeo.A.log_score": {
+    "value": 2.6248085371045,
+    "display": "2.625",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean NB negative log score, Model A"
+  },
+  "C.val.loeo.A.male": {
+    "value": 0.455256749661429,
+    "display": "0.455",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean absolute log error, Model A (common rows; flag NA)"
+  },
+  "C.val.loeo.B.coverage": {
+    "value": 0.945098039215686,
+    "display": "94.5%",
+    "script": "models/C/validate.R",
+    "description": "LOEO coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model B"
+  },
+  "C.val.loeo.B.log_score": {
+    "value": 2.60346691420941,
+    "display": "2.603",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean NB negative log score, Model B"
+  },
+  "C.val.loeo.B.male": {
+    "value": 0.432845462494608,
+    "display": "0.433",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean absolute log error, Model B (common rows; flag NA)"
+  },
+  "C.val.loeo.C.coverage": {
+    "value": 0.96078431372549,
+    "display": "96.1%",
+    "script": "models/C/validate.R",
+    "description": "LOEO coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model C"
+  },
+  "C.val.loeo.C.log_score": {
+    "value": 2.56443309154565,
+    "display": "2.564",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean NB negative log score, Model C"
+  },
+  "C.val.loeo.C.male": {
+    "value": 0.436323220949579,
+    "display": "0.436",
+    "script": "models/C/validate.R",
+    "description": "LOEO mean absolute log error, Model C (common rows; flag NA)"
+  },
+  "C.val.loeo.n_folds": {
+    "value": 7,
+    "display": "7",
+    "script": "models/C/validate.R",
+    "description": "Evaluated LOEO folds (non-skipped, non-failed); skipped: 1"
+  },
+  "C.val.loeo.n_folds_C_better": {
+    "value": 3,
+    "display": "3 of 7",
+    "script": "models/C/validate.R",
+    "description": "LOEO folds where per-fold MALE of Model C < Model B"
+  },
+  "C.val.loeo.n_rows": {
+    "value": 510,
+    "display": "510",
+    "script": "models/C/validate.R",
+    "description": "Scored unit-years per model, LOEO (common_n)"
+  },
+  "C.val.loeo.skill_gain_pct": {
+    "value": -0.803464228301598,
+    "display": "−0.8%",
+    "script": "models/C/validate.R",
+    "description": "LOEO skill gain of Model C over B: 100 x (1 - MALE_C / MALE_B) (positive = C better)"
+  },
+  "C.val.rolling.A.coverage": {
+    "value": 0.944117647058824,
+    "display": "94.4%",
+    "script": "models/C/validate.R",
+    "description": "ROLLING coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model A"
+  },
+  "C.val.rolling.A.log_score": {
+    "value": 2.54365322452191,
+    "display": "2.544",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean NB negative log score, Model A"
+  },
+  "C.val.rolling.A.male": {
+    "value": 0.526158254679634,
+    "display": "0.526",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean absolute log error, Model A (common rows; flag NA)"
+  },
+  "C.val.rolling.B.coverage": {
+    "value": 0.941176470588235,
+    "display": "94.1%",
+    "script": "models/C/validate.R",
+    "description": "ROLLING coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model B"
+  },
+  "C.val.rolling.B.log_score": {
+    "value": 2.47377287638987,
+    "display": "2.474",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean NB negative log score, Model B"
+  },
+  "C.val.rolling.B.male": {
+    "value": 0.48207273774104,
+    "display": "0.482",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean absolute log error, Model B (common rows; flag NA)"
+  },
+  "C.val.rolling.C.coverage": {
+    "value": 0.952941176470588,
+    "display": "95.3%",
+    "script": "models/C/validate.R",
+    "description": "ROLLING coverage of the nominal 95% prediction interval (200 joint draws + NB noise), Model C"
+  },
+  "C.val.rolling.C.log_score": {
+    "value": 2.40813627456191,
+    "display": "2.408",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean NB negative log score, Model C"
+  },
+  "C.val.rolling.C.male": {
+    "value": 0.459382060133456,
+    "display": "0.459",
+    "script": "models/C/validate.R",
+    "description": "ROLLING mean absolute log error, Model C (common rows; flag NA)"
+  },
+  "C.val.rolling.n_rows": {
+    "value": 340,
+    "display": "340",
+    "script": "models/C/validate.R",
+    "description": "Scored unit-years per model, rolling origin"
+  },
+  "C.val.rolling.skill_gain_pct": {
+    "value": 4.70689915258669,
+    "display": "4.7%",
+    "script": "models/C/validate.R",
+    "description": "ROLLING skill gain of Model C over B: 100 x (1 - MALE_C / MALE_B) (positive = C better)"
+  }
+}

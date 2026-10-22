@@ -1,0 +1,43 @@
+{
+  "title": "El Niño, heat extremes, drought and mortality in India, 2001–2024: data and code",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Data and code for a study of the El Niño–Southern Oscillation and recorded heat/sun-stroke deaths (2001–2024), farming-sector suicides (2001–2023) and foodgrain production (1997–2016) in 34 Indian state-level units, with projections for 2027 (manuscript under review).</p><p>Contents: state × year panels compiled from the National Crime Records Bureau's Accidental Deaths &amp; Suicides in India (2001–2024 editions), the Open Government Data Platform India, a Ministry of Earth Sciences annexure (cross-check), the Reserve Bank of India Handbook of Statistics on Indian States and the ICRISAT-TCI District Level Database (cross-check), with every parsed record, source precedence and reviewed exceptions (including the printed-zero rule for farmer suicides); population denominators (Census of India, official projections); ENSO indices (NOAA CPC, NOAA PSL); IMD-based climate exposures pooled to the 34 units; model-ready inputs; the Python pipeline that builds them from the official sources; and the R analysis (glmmTMB negative binomial mixed models, leave-one-El-Niño-out and rolling-origin validation, mediation, 2027 projections) with its results and supplementary tables. Farmer-suicide data are aggregated state-year counts only; see the responsible-reporting note in README.md. Raw source files are not redistributed; their public URLs and SHA-256 checksums are listed.</p>",
+  "creators": [
+    {
+      "name": "Siddalingaiah, H S",
+      "affiliation": "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India",
+      "orcid": "0000-0002-4771-8285"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "El Niño–Southern Oscillation",
+    "heat-related mortality",
+    "heatwaves",
+    "drought",
+    "farmer suicides",
+    "foodgrain production",
+    "India",
+    "climate and health",
+    "negative binomial mixed model"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/hssling/elnino-heat-india",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/hssling/elnino-malaria-india",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23424043",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Code: MIT licence. Derived data: CC BY 4.0 (see DATA_LICENSE.md); third-party source terms apply. Companion repository for malaria and dengue (same pipeline): https://github.com/hssling/elnino-malaria-india, https://doi.org/10.5281/zenodo.23424043."
+}

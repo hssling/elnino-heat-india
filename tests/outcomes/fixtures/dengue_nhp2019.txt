@@ -1,0 +1,16 @@
+3.1.5 State/UT wise Cases and Deaths Due to Dengue in India, 2014 - 2018(P)
+(ICD - 10 Code A90 - A91)
+2014 2015 2016 2017 2018(P)
+S. No. State/UT
+Cases Deaths Cases Deaths Cases Deaths Cases Deaths Cases Deaths
+1 Andhra Pradesh 1262 5 3159 2 3417 2 4925 0 4011 0
+13 Kerala 2575 11 4075 25 7439 13 19994 37 4083 32
+15 Maharashtra 8573 54 4936 23 6792 33 7829 65 11011 55
+25 Telangana 704 1 1831 2 4037 4 5369 0 4592 2
+29 West Bengal 3934 4 8516 14 22865 45 37746 46 0 0
+32 D & N Haveli 641 1 1154 0 4161 2 2064 0 493 0
+33 Daman & Diu 46 0 165 0 89 0 59 0 163 0
+India 40571 137 99913 220 129166 245 188401 325 101192 172
+Source: Directorate of National Vector Borne Disease Control Programme, Dte.GHS, Ministry of Health & Family Welfare
+Notes:
+(P) Provisional

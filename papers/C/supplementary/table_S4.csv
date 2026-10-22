@@ -1,0 +1,4 @@
+Index,LOEO MALE,LOEO log score,LOEO coverage,Rolling MALE,Rolling log score,Rolling coverage,AIC,El Niño term IRR per 1 °C (95% CI),Random effects,Failed splits (LOEO/rolling)
+"Traditional ONI","0.514","2.649","95.9%","0.566","2.553","93.2%","4299.5","1.21 (95% CI 1.05–1.40)","diag","0/0"
+"RONI","0.508","2.641","95.7%","0.568","2.554","93.8%","4299.6","1.13 (95% CI 0.93–1.36)","diag","0/0"
+"Niño-3.4 anomaly (ERSSTv5)","0.513","2.645","96.5%","0.568","2.558","92.6%","4300.1","1.16 (95% CI 0.99–1.35)","diag","0/0"
